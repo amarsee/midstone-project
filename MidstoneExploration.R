@@ -6,7 +6,7 @@ library(broom)
 nba_85_to_present <- read_csv("nba_season_data_1985_to_present_relevant_columns.csv", col_types = "dcdccccccddddcdddd")
 nba_85_to_present$away_indicator <- nba_85_to_present$away_indicator %>% replace_na("")
 nba_85_to_present <- nba_85_to_present %>% 
-  filter(daysbetweengames < 5) %>% 
+  filter(daysbetweengames < 4) %>% 
   rename(win_loss = 8, overtime = 9) %>% 
   mutate(win_loss=if_else(win_loss == "W", 1, 0),
          away_indicator=if_else(away_indicator == "@", 1, 0))
@@ -14,7 +14,7 @@ nba_85_to_present <- nba_85_to_present %>%
 nba_14_to_present <- read_csv("nba_season_data_2013_to_present.csv", col_types = "dcdccccccddddcdddd")
 nba_14_to_present$away_indicator <- nba_14_to_present$away_indicator %>% replace_na("")
 nba_14_to_present <- nba_14_to_present %>% 
-  filter(daysbetweengames < 5) %>% 
+  filter(daysbetweengames < 4) %>% 
   rename(win_loss = 8, overtime = 9) %>%
   mutate(win_loss=if_else(win_loss == "W", 1, 0),
          away_indicator=if_else(away_indicator == "@", 1, 0),
@@ -126,4 +126,25 @@ nba_models <- nba_nested %>%
   mutate(model = map(data, ~glm(formula= win_loss ~ mean_points_for + mean_points_against + mean_differential + 
                                   opp_mean_points_for + opp_mean_points_against + opp_mean_differential, 
                                   family=binomial, data = .x)))
+
+nba_total_by_team <- nba_14_to_present_merged %>% 
+  select(year, team, daysbetweengames, tm, opp, diff) %>% 
+  group_by(year, team, daysbetweengames) %>% 
+  summarise(mean_points_for = mean(tm, na.rm = TRUE),
+         mean_points_against = mean(opp, na.rm = TRUE),
+         mean_differential = mean(diff, na.rm = TRUE))
+
+nba_total_by_team_85 <- nba_85_to_present %>% 
+  select(year, team, daysbetweengames, tm, opp, diff) %>% 
+  group_by(year, team, daysbetweengames) %>% 
+  summarise(mean_points_for = round(mean(tm, na.rm = TRUE), 2),
+            mean_points_against = round(mean(opp, na.rm = TRUE), 2),
+            mean_differential = round(mean(diff, na.rm = TRUE), 2))
+nba_total_by_team_85$diff_type <- ifelse(nba_total_by_team_85$mean_differential < 0, "below", "above")  # above / below avg flag
+nba_total_by_team_85_sorted <- nba_total_by_team_85[order(nba_total_by_team_85$mean_differential), ]
+
+
+
+
+
 
