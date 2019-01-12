@@ -141,10 +141,46 @@ nba_total_by_team_85 <- nba_85_to_present %>%
             mean_points_against = round(mean(opp, na.rm = TRUE), 2),
             mean_differential = round(mean(diff, na.rm = TRUE), 2))
 nba_total_by_team_85$diff_type <- ifelse(nba_total_by_team_85$mean_differential < 0, "below", "above")  # above / below avg flag
-nba_total_by_team_85_sorted <- nba_total_by_team_85[order(nba_total_by_team_85$mean_differential), ]
+nba_total_by_team_85_sorted <- nba_total_by_team_85 %>% 
+  arrange(-mean_differential)
 
 
+nba_14_to_present_start_time <- nba_14_to_present %>% 
+  select(year, team, start_et, daysbetweengames, tm, opp, diff) %>% 
+  group_by(year, team, start_et, daysbetweengames) %>% 
+  summarise(mean_points_for = round(mean(tm, na.rm = TRUE), 2),
+            mean_points_against = round(mean(opp, na.rm = TRUE), 2),
+            mean_differential = round(mean(diff, na.rm = TRUE), 2))
+
+nba_14_to_present_just_start_time <- nba_14_to_present %>% 
+  select(year, team, start_et, tm, opp, diff) %>% 
+  group_by(year, team, start_et) %>% 
+  summarise(mean_points_for = round(mean(tm, na.rm = TRUE), 2),
+            mean_points_against = round(mean(opp, na.rm = TRUE), 2),
+            mean_differential = round(mean(diff, na.rm = TRUE), 2))
+# Eastern: 7 or 7:30
+# Central: 8 or 8:30
+# Mountain: 9 or 9:30
+# Pacific: 10 or 10:30
+# Afternoon: Anything Else
+
+start_groups_nba_14_to_present <- nba_14_to_present %>% 
+  select(year, team, start_et, tm, opp, diff) %>% 
+  mutate(
+    time_zone = case_when(
+      start_et == "7:00p" | start_et == "7:30p" ~ "Eastern",
+      start_et == "8:00p" | start_et == "8:30p" ~ "Central",
+      start_et == "9:00p" | start_et == "9:30p" ~ "Mountain",
+      start_et == "10:00p" | start_et == "10:30p" ~ "Pacific",
+      TRUE                      ~  "Afternoon"
+    )
+  ) %>% 
+  select(year, team, time_zone, tm, opp, diff) %>% 
+  group_by(year, team, time_zone) %>% 
+  summarise(mean_points_for = round(mean(tm, na.rm = TRUE), 2),
+            mean_points_against = round(mean(opp, na.rm = TRUE), 2),
+            mean_differential = round(mean(diff, na.rm = TRUE), 2))
 
 
-
+#saveRDS(nba_14_to_present_merged, "nba_14_to_present_merged.rds")
 
