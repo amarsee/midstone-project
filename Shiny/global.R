@@ -4,6 +4,7 @@ library(ggplot2)
 library(dplyr)
 library(usmap)
 library(plotly)
+library(DT)
 
 # load datset of prescription counts by state
 nba_85_to_now_grouped <- readRDS('data/85_to_now_grouped.rds')
@@ -20,7 +21,10 @@ nba_14_to_present_merged <- nba_14_to_present_merged %>%
   )
 
 teams_85 <- unique(nba_85_to_now_grouped$team)
+team_14 <- sort(unique(nba_14_to_present_merged$team))
 season_options_tab1 <- unique(nba_14_to_present_merged$year)
+season_options_tab2 <- unique(nba_14_to_present_merged$year)
+
 years <- 1984:2019
 
 

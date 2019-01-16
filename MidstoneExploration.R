@@ -3,7 +3,7 @@ library(dplyr)
 library(tidyverse)
 library(broom)
 
-nba_85_to_present <- read_csv("nba_season_data_1985_to_present_relevant_columns.csv", col_types = "dcdccccccddddcdddd")
+nba_85_to_present <- read_csv("data/nba_season_data_1985_to_present_relevant_columns.csv", col_types = "dcdccccccddddcdddd")
 nba_85_to_present$away_indicator <- nba_85_to_present$away_indicator %>% replace_na("")
 nba_85_to_present <- nba_85_to_present %>% 
   filter(daysbetweengames < 4) %>% 
@@ -11,7 +11,7 @@ nba_85_to_present <- nba_85_to_present %>%
   mutate(win_loss=if_else(win_loss == "W", 1, 0),
          away_indicator=if_else(away_indicator == "@", 1, 0))
 
-nba_14_to_present <- read_csv("nba_season_data_2013_to_present.csv", col_types = "dcdccccccddddcdddd")
+nba_14_to_present <- read_csv("data/nba_season_data_2013_to_present.csv", col_types = "dcdccccccddddcdddd")
 nba_14_to_present$away_indicator <- nba_14_to_present$away_indicator %>% replace_na("")
 nba_14_to_present <- nba_14_to_present %>% 
   filter(daysbetweengames < 4) %>% 

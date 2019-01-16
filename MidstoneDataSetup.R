@@ -1,9 +1,10 @@
 library("ballr")
 library('dplyr')
 library(tidyverse)
+
+# ------------ Testing functions of ballr --------------
 s2019 <- NBAPerGameAdvStatistics(season = 2019) %>% 
   filter(mp > 150)
-
 ad <- as.character( s2019 %>% 
                       filter(player == 'Anthony Davis') %>% 
                       select(link)) 
@@ -17,6 +18,7 @@ team_chars <- s2019 %>%
   filter(tm != "TOT")  
 nchars <- unique(team_chars$tm)
 
+# ------------------ Function to call ballr function to concatenate team schedules to one dataframe -------
 combineYears <- function(year1, year2) {
   totalDf <- NBASeasonTeamByYear("ATL", (year1 - 1))
   totalDf$year <- (year1 - 1)
@@ -36,11 +38,13 @@ combineYears <- function(year1, year2) {
   return(totalDf)
 }
 
+# ------------- Dataframe for 2014 to 2019 -------------------
 tots <- combineYears(2014, 2019)
 
 # nba85toCurrent <- combineYears(1985, 2019)
 # write.csv(relevantColumnsKept, file = "nba_season_data_1985_to_present_relevant_columns.csv",row.names=FALSE)
 
+# ----------------- Keeping columns relevant for analysis -------------------
 relevantColumnsKept <- nba85toCurrent %>%
   select(year, team, g, date, start_et, away_indicator, opponent, x_4, x_5, tm, opp,
          w, l, streak, diff, avg_diff, away, daysbetweengames)
