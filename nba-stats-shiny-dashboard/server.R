@@ -236,7 +236,7 @@ shinyServer(function(input, output) {
     infoBox(
       title = "Mean Points Against",
       value = as.character(points_against) ,
-      icon = icon("fighter-jet"),
+      icon = icon("compress"),
       color = "red",
       width = 12
     )
@@ -272,7 +272,7 @@ shinyServer(function(input, output) {
     infoBox(
       title = "Mean Points Against",
       value = as.character(points_against) ,
-      icon = icon("fighter-jet"),
+      icon = icon("compress"),
       color = "red",
       width = 12
     )
@@ -290,6 +290,33 @@ shinyServer(function(input, output) {
     )
   })
   
+  output$table_tab2 <- DT::renderDataTable({
+    team_1_char <- input$team_1
+    season_select <- input$season_tab2 # 2014 to 2019
+    team_2_char <- input$team_2
+    # tz_team_1 <- input$time_zone_team_1 # Can be "Any", "Eastern", "Central", "Mountain", "Pacific", "Other"
+    # days_rest_team_1 <- input$days_between_team_1 # Can be "Any", "1", "2", "3"
+    # home_away_team_1 <- input$h_a_team_1 # Can be "Home", "Away", "Either"
+    
+    nba_season <- nba_14_to_present_merged %>% 
+      filter(year == season_select, team == team_1_char, opp_init == team_2_char) %>% 
+      select(date, start_et, away_indicator, team, daysbetweengames, tm, opp, opp_init, opp_daysbetween) %>% 
+      rename(Date = 1, `Start Time (ET)` = 2, `Home or Away`= 3, `Team 1` = 4, `Team 1 Days Between` = 5 , `Team 1 Points` = 6, 
+             `Team 2 Points` = 7, `Team 2` = 8, `Team 2 Days Between` = 9) %>% 
+      mutate(
+        `Home Team` = case_when(
+          `Home or Away` == 0 ~ team_1_char,
+          TRUE ~ team_2_char
+        )
+      ) %>% 
+      select(Date, `Start Time (ET)`, `Home Team`,`Team 1 Days Between`, `Team 1`, `Team 1 Points`, 
+             `Team 2 Points`, `Team 2`, `Team 2 Days Between`)
+    
+    nba_season
+  })
+  
+
+    
 })
 
 

@@ -52,7 +52,7 @@ relevantColumnsKept <- nba85toCurrent %>%
 relevantColumnsKept_tots <- tots %>%
   select(year, team, g, date, start_et, away_indicator, opponent, x_4, x_5, tm, opp,
          w, l, streak, diff, avg_diff, away, daysbetweengames)
-# write.csv(relevantColumnsKept_tots, file = "nba_season_data_2013_to_present.csv",row.names=FALSE)
+write.csv(relevantColumnsKept_tots, file = "nba_season_data_2013_to_present.csv",row.names=FALSE)
 
 daysRestComp <- relevantColumnsKept %>% 
   select(year, daysbetweengames, diff) %>% 

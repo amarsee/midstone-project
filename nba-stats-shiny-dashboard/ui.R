@@ -2,13 +2,13 @@
 shinyUI(
   dashboardPage(
     skin = "green",
-    dashboardHeader(title = 'Effect of Days Rest and Start Times on NBA Teams'),
+    dashboardHeader(title = 'NBA Scheduling Effect'),
     
     # Sidebar
     dashboardSidebar(
       sidebarMenu(
         menuItem("Point Difference", tabName = "point_diff", icon = icon("basketball-ball")),
-        menuItem("Team Comparison", tabName = "team_comp", icon = icon("dashboard"))
+        menuItem("Team Comparison", tabName = "team_comp", icon = icon("balance-scale"))
         #menuItem("Days Rest Comparison", icon = icon("th"), tabName = "days_comp")
             )
         ),
@@ -20,14 +20,17 @@ shinyUI(
                 fluidRow(
                   column(width = 3,
                          box(
-                           title = "Set Parameters", status = "primary", solidHeader = TRUE, height = 450,
-                           "Select a season, team, and days between games to see how team stats change", width=NULL, 
+                           title = "Set Parameters", status = "primary", solidHeader = TRUE, height = 650, width=NULL,
+                           "Select a season, team, and days between games to see how team stats change", br(), br(),
+                           "Season is ending year of the season (e.g. 2018 is the 2017-18 season)", br(), br(),
+                           "Time Slot is time zone of typical weeknight game. Other represents an irregular weekend or holiday start time", br(), br(),
+                           "Days Rest is between one game and the next (e.g. 1 Day Rest represents games on back-to-back days)", br(),
                            selectInput("season_tab1", 
                                        label = "Season:", 
                                        choices = season_options_tab1,
                                        selected = 2014),
                            radioButtons(
-                             "time_zone_1", label = "Select Time:",
+                             "time_zone_1", label = "Select Time Slot:",
                              choices = c("Any", "Eastern", "Central", "Mountain", "Pacific", "Other"),
                              selected = "Any", inline = TRUE
                            ),
@@ -63,8 +66,8 @@ shinyUI(
                   column(width = 6,
                          fluidRow(
                            box(
-                             title = "Set Parameters", status = "primary", solidHeader = TRUE, height = 175,
-                             "Select a season for the team comparison", width=NULL, 
+                             title = "Set Season", status = "primary", solidHeader = TRUE, height = 175,
+                             "Select a season for the team comparison" , width=NULL, 
                              selectInput("season_tab2", 
                                          label = "Season:", 
                                          choices = season_options_tab2,
@@ -74,22 +77,23 @@ shinyUI(
                         fluidRow(
                           column(width = 6,
                             box(
-                              title = "Team 1", status = "primary", solidHeader = TRUE, height = 500,
+                              title = "Team 1", status = "primary", solidHeader = TRUE, height = 400,
                               "Select first team for comparison", width=NULL, 
                               selectInput("team_1", 
                                           label = "Team:", 
                                           choices = team_14,
                                           selected = "ATL"),
                               radioButtons(
-                                "time_zone_team_1", label = "Select Time:",
-                                choices = c("Any", "Eastern", "Central", "Mountain", "Pacific", "Other"),
-                                selected = "Any", inline = TRUE
-                              ),
-                              radioButtons(
                                 "days_between_team_1", label = "Select Days Rest:",
                                 choices = c("Any", "1", "2", "3"),
                                 selected = "Any", inline = TRUE
                               ),
+                              radioButtons(
+                                "time_zone_team_1", label = "Select Time Slot:",
+                                choices = c("Any", "Eastern", "Central", "Mountain", "Pacific", "Other"),
+                                selected = "Any", inline = TRUE
+                              ),
+                              
                               radioButtons(
                                 "h_a_team_1", label = "Home/Away:",
                                 choices = c("Home", "Away", "Either"),
@@ -99,22 +103,23 @@ shinyUI(
                         ),
                         column(width = 6,
                                box(
-                                 title = "Team 2", status = "primary", solidHeader = TRUE, height = 500,
+                                 title = "Team 2", status = "primary", solidHeader = TRUE, height = 400,
                                  "Select second team for comparison", width=NULL, 
                                  selectInput("team_2", 
                                              label = "Team:", 
                                              choices = team_14,
                                              selected = "BOS"),
                                  radioButtons(
-                                   "time_zone_team_2", label = "Select Time:",
-                                   choices = c("Any", "Eastern", "Central", "Mountain", "Pacific", "Other"),
-                                   selected = "Any", inline = TRUE
-                                 ),
-                                 radioButtons(
                                    "days_between_team_2", label = "Select Days Rest:",
                                    choices = c("Any", "1", "2", "3"),
                                    selected = "Any", inline = TRUE
                                  ),
+                                 radioButtons(
+                                   "time_zone_team_2", label = "Select Time Slot:",
+                                   choices = c("Any", "Eastern", "Central", "Mountain", "Pacific", "Other"),
+                                   selected = "Any", inline = TRUE
+                                 ),
+                                 
                                  radioButtons(
                                    "h_a_team_2", label = "Home/Away:",
                                    choices = c("Home", "Away", "Either"),
@@ -149,7 +154,12 @@ shinyUI(
                            )
                          )
                   )
-                ) # Close Fluid Row 
+                ), # Close Fluid Row 
+                fluidRow(
+                  column(width = 12,
+                         DT::dataTableOutput('table_tab2')
+                  )
+                )
                 
         )
         # -------- Tab 3: Team Points ---------
