@@ -14,6 +14,9 @@ nba_85_to_present <- nba_85_to_present %>%
          away_indicator=if_else(away_indicator == "@", 1, 0))
 
 nba_14_to_present <- read_csv("data/nba_season_data_2013_to_present.csv", col_types = "dcdccccccddddcdddd")
+nba_14_to_present %>% 
+  filter(year > 2013, team == "ATL") %>% 
+  View()
 nba_14_to_present$away_indicator <- nba_14_to_present$away_indicator %>% replace_na("")
 nba_14_to_present <- nba_14_to_present %>% 
   filter(daysbetweengames < 4) %>% 

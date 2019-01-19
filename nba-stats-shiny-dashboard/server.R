@@ -1,4 +1,3 @@
-# Define server logic required to draw a histogram
 shinyServer(function(input, output) {
   
   
@@ -26,6 +25,7 @@ shinyServer(function(input, output) {
     tz_1 <- input$time_zone_1 # Can be "Any", "Eastern", "Central", "Mountain", "Pacific", "Other"
     days_rest_1 <- input$days_between_1 # Can be "Any", "1", "2", "3"
     home_away_1 <- input$h_a_1 # Can be "Home", "Away", "Either"
+    team_highlight <- input$team_hl # Selection to focus on and highlight in plot
     
     nba_season <- nba_14_to_present_merged %>% 
       filter(year == season_select)
@@ -56,7 +56,7 @@ shinyServer(function(input, output) {
     }
     
     table_out <- nba_season %>% 
-      select(team, date, start_et, away_indicator, opponent, win_loss, tm, opp)
+      select(team, date, start_et, away_indicator, daysbetweengames, opponent, win_loss, tm, opp)
     
     output$table_tab1 <- DT::renderDataTable({
       table_out
@@ -66,22 +66,35 @@ shinyServer(function(input, output) {
       select(team, diff) %>% 
       group_by(team) %>% 
       summarise(
-        mean_differential = round(mean(diff, na.rm = TRUE), 2)
+        mean_differential = round(mean(diff, na.rm = TRUE), 1)
         )
     nba_grouped$diff_type <- ifelse(nba_grouped$mean_differential < 0, "Negative", "Positive")  
     nba_grouped <- nba_grouped[order(nba_grouped$mean_differential), ]  # sort
     nba_grouped$team <- factor(nba_grouped$team, levels = nba_grouped$team)
     
+    black.bold.italic.11.text <- element_text(face = "bold", color = "black", size = 11)
+    black.bold.italic.15.text <- element_text(color = "black", size = 15)
+    
     p1 <- ggplot(nba_grouped, aes(x=team, y=mean_differential, label=mean_differential)) + 
-      geom_point(stat='identity', aes(col=diff_type), size=6)  +
+      geom_point(stat='identity', aes(col=diff_type), size=5, shape = 21)  +
       scale_color_manual(name="Win/Loss", 
                          labels = c("Net Win", "Net Loss"), 
                          values = c("Positive"="#00ba38", "Negative"="#f8766d")) + 
-      geom_text(color="white", size=2) +
-      labs(title="Average Margin of Victory By Team") + 
+      geom_text(color="black", size=2) +
+      labs(title="Average Margin of Victory By Team", 
+           y = "Average Margin of Victory", x = "Team") + 
       ylim(-15, 15) +
       #ylim(as.integer(min(nba_grouped$mean_differential)) - 1, as.integer(max(nba_grouped$mean_differential)) + 1) +
       theme_bw() +
+      theme(axis.text = black.bold.italic.11.text, axis.title = black.bold.italic.15.text)
+    
+    if (team_highlight != "None") {
+      hl_data <- nba_grouped %>% 
+        filter(team == team_highlight)
+      p1 <- p1 +
+        geom_point(data = hl_data, aes(x = team, y = mean_differential), size=5, shape = 23)
+    }
+    p1 <- p1 +
       coord_flip()
     
     ggplotly(p1)
@@ -294,10 +307,7 @@ shinyServer(function(input, output) {
     team_1_char <- input$team_1
     season_select <- input$season_tab2 # 2014 to 2019
     team_2_char <- input$team_2
-    # tz_team_1 <- input$time_zone_team_1 # Can be "Any", "Eastern", "Central", "Mountain", "Pacific", "Other"
-    # days_rest_team_1 <- input$days_between_team_1 # Can be "Any", "1", "2", "3"
-    # home_away_team_1 <- input$h_a_team_1 # Can be "Home", "Away", "Either"
-    
+
     nba_season <- nba_14_to_present_merged %>% 
       filter(year == season_select, team == team_1_char, opp_init == team_2_char) %>% 
       select(date, start_et, away_indicator, team, daysbetweengames, tm, opp, opp_init, opp_daysbetween) %>% 

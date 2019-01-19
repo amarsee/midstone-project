@@ -20,7 +20,7 @@ shinyUI(
                 fluidRow(
                   column(width = 3,
                          box(
-                           title = "Set Parameters", status = "primary", solidHeader = TRUE, height = 650, width=NULL,
+                           title = "Set Parameters", status = "primary", solidHeader = TRUE, height = 680, width=NULL,
                            "Select a season, team, and days between games to see how team stats change", br(), br(),
                            "Season is ending year of the season (e.g. 2018 is the 2017-18 season)", br(), br(),
                            "Time Slot is time zone of typical weeknight game. Other represents an irregular weekend or holiday start time", br(), br(),
@@ -29,6 +29,10 @@ shinyUI(
                                        label = "Season:", 
                                        choices = season_options_tab1,
                                        selected = 2014),
+                           selectInput("team_hl", 
+                                       label = "Team to Highlight:", 
+                                       choices = c("None", team_14),
+                                       selected = "None"),
                            radioButtons(
                              "time_zone_1", label = "Select Time Slot:",
                              choices = c("Any", "Eastern", "Central", "Mountain", "Pacific", "Other"),
@@ -44,13 +48,15 @@ shinyUI(
                              choices = c("Home", "Away", "Either"),
                              selected = "Either", inline = TRUE
                            )
+                           
+                           
                          )
                   ),
                   column(width = 9,
                          box(
                            title = "Average Margin of Victory for Selected Parameters" , status = "success", 
                            solidHeader = TRUE, width = NULL,
-                           plotlyOutput("nba_14_merged", height = 600)
+                           plotlyOutput("nba_14_merged", height = 640)
                          )
                   )
                 ), # Close Fluid Row 
