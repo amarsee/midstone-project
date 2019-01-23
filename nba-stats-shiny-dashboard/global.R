@@ -5,6 +5,7 @@ library(dplyr)
 library(usmap)
 library(plotly)
 library(DT)
+library(shinyWidgets)
 
 # load datset of prescription counts by state
 nba_85_to_now_grouped <- readRDS('data/85_to_now_grouped.rds')

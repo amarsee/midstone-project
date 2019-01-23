@@ -71,11 +71,13 @@ shinyServer(function(input, output) {
     nba_grouped$diff_type <- ifelse(nba_grouped$mean_differential < 0, "Negative", "Positive")  
     nba_grouped <- nba_grouped[order(nba_grouped$mean_differential), ]  # sort
     nba_grouped$team <- factor(nba_grouped$team, levels = nba_grouped$team)
+    nba_grouped <- nba_grouped %>% 
+      rename(Team = 1, `Avg. Margin of Victory` = 2)
     
     black.bold.italic.11.text <- element_text(face = "bold", color = "black", size = 11)
     black.bold.italic.15.text <- element_text(color = "black", size = 15)
     
-    p1 <- ggplot(nba_grouped, aes(x=team, y=mean_differential, label=mean_differential)) + 
+    p1 <- ggplot(nba_grouped, aes(x=Team, y=`Avg. Margin of Victory`, label=`Avg. Margin of Victory`)) + 
       geom_point(stat='identity', aes(col=diff_type), size=5, shape = 21)  +
       scale_color_manual(name="Win/Loss", 
                          labels = c("Net Win", "Net Loss"), 
@@ -90,14 +92,14 @@ shinyServer(function(input, output) {
     
     if (team_highlight != "None") {
       hl_data <- nba_grouped %>% 
-        filter(team == team_highlight)
+        filter(Team == team_highlight)
       p1 <- p1 +
-        geom_point(data = hl_data, aes(x = team, y = mean_differential), size=5, shape = 23)
+        geom_point(data = hl_data, aes(x = Team, y = `Avg. Margin of Victory`), size=5, shape = 23)
     }
     p1 <- p1 +
       coord_flip()
     
-    ggplotly(p1)
+    ggplotly(p1, tooltip=c("x", "y"))
     
    
   })
