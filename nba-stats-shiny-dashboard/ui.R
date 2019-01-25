@@ -8,8 +8,11 @@ shinyUI(
     dashboardSidebar(
       sidebarMenu(
         menuItem("League Margin of Victory", tabName = "point_diff", icon = icon("basketball-ball")),
-        menuItem("Team Comparison", tabName = "team_comp", icon = icon("balance-scale"))
-        #menuItem("Days Rest Comparison", icon = icon("th"), tabName = "days_comp")
+        menuItem("Team Comparison", tabName = "team_comp", icon = icon("balance-scale")),
+        br(),
+        menuItem("Basketball Reference Data", href = "https://www.basketball-reference.com/leagues/NBA_2019_games.html", icon = icon("link"))
+        
+        #menuItem("Days Rest Comparison", icon = icon("th"), tabName = "days_comp"),
             )
         ),
     
@@ -20,7 +23,7 @@ shinyUI(
                 fluidRow(
                   column(width = 3,
                          box(
-                           title = "Set Parameters", status = "primary", solidHeader = TRUE, height = 680, width=NULL,
+                           title = "Set Parameters", status = "primary", solidHeader = TRUE, height = 700, width=NULL,
                            "Select a season, team, and days between games to see how team stats change", br(), br(),
                            "Season is ending year of the season (e.g. 2018 is the 2017-18 season)", br(), br(),
                            "Time Slot is time zone of typical weeknight game. Other represents an irregular weekend or holiday start time", br(), br(),
@@ -141,7 +144,7 @@ shinyUI(
                                   box(
                                     title = "Team 1 Stats", status = "primary", solidHeader = TRUE, height = 600,
                                     width=NULL, 
-                                    fluidRow(uiOutput("img_team_1")),
+                                    fluidRow(uiOutput("img_team_1")), br(),
                                     fluidRow(infoBoxOutput("team_1_points_for", width = 12)),
                                     fluidRow(infoBoxOutput("team_1_points_against", width = 12)),
                                     fluidRow(infoBoxOutput("team_1_diff", width = 12))
@@ -152,7 +155,7 @@ shinyUI(
                                   box(
                                     title = "Team 2 Stats", status = "primary", solidHeader = TRUE, height = 600,
                                     width=NULL, 
-                                    uiOutput("img_team_2"),
+                                    uiOutput("img_team_2"), br(),
                                     fluidRow(infoBoxOutput("team_2_points_for", width = 12)),
                                     fluidRow(infoBoxOutput("team_2_points_against", width = 12)),
                                     fluidRow(infoBoxOutput("team_2_diff", width = 12))

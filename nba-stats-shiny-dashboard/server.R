@@ -58,9 +58,9 @@ shinyServer(function(input, output) {
     table_out <- nba_season %>% 
       select(team, date, start_et, away_indicator, daysbetweengames, opponent, win_loss, tm, opp)
     
-    output$table_tab1 <- DT::renderDataTable({
-      table_out
-    })
+    output$table_tab1 <- DT::renderDataTable(
+      table_out, filter = "top"
+    )
     
     nba_grouped <- nba_season %>% 
       select(team, diff) %>% 
@@ -79,7 +79,7 @@ shinyServer(function(input, output) {
     
     p1 <- ggplot(nba_grouped, aes(x=Team, y=`Avg. Margin of Victory`, label=`Avg. Margin of Victory`)) + 
       geom_point(stat='identity', aes(col=diff_type), size=5, shape = 21)  +
-      scale_color_manual(name="Win/Loss", 
+      scale_color_manual(name="Margin of\n Victory", 
                          labels = c("Net Win", "Net Loss"), 
                          values = c("Positive"="#00ba38", "Negative"="#f8766d")) + 
       geom_text(color="black", size=2) +
@@ -97,9 +97,11 @@ shinyServer(function(input, output) {
         geom_point(data = hl_data, aes(x = Team, y = `Avg. Margin of Victory`), size=5, shape = 23)
     }
     p1 <- p1 +
-      coord_flip()
+      coord_flip() +
+      theme(legend.position="bottom")
     
-    ggplotly(p1, tooltip=c("x", "y"))
+    ggplotly(p1, tooltip=c("x", "y")) %>% 
+      layout(legend = list(orientation = "h", x = 0.7, y = 0.2))
     
    
   })
@@ -325,6 +327,7 @@ shinyServer(function(input, output) {
              `Team 2 Points`, `Team 2`, `Team 2 Days Between`)
     
     nba_season
+    
   })
   
 
