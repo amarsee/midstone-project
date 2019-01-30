@@ -7,6 +7,8 @@ shinyUI(
     # Sidebar
     dashboardSidebar(
       sidebarMenu(
+        "Data Last Updated: January 25, 2019", br(), br(),
+        menuItem("Overview", tabName = "overview", icon = icon("bookmark")),
         menuItem("League Margin of Victory", tabName = "point_diff", icon = icon("basketball-ball")),
         menuItem("Team Comparison", tabName = "team_comp", icon = icon("balance-scale")),
         br(),
@@ -19,6 +21,15 @@ shinyUI(
     
     dashboardBody(
       tabItems(
+        tabItem(tabName = "overview",
+                fluidRow(
+                  box(
+                    title = "Welcome", status = "primary", solidHeader = TRUE, height = 600, width = 12,
+                    "This shiny app was built as a way to explore some NBA."
+                  )
+                ) # Close Fluid Row 
+                
+        ),
         tabItem(tabName = "point_diff",
                 fluidRow(
                   column(width = 3,
@@ -86,7 +97,7 @@ shinyUI(
                         fluidRow(
                           column(width = 6,
                             box(
-                              title = "Team 1", status = "primary", solidHeader = TRUE, height = 400,
+                              title = "Team 1", status = "primary", solidHeader = TRUE, height = 385,
                               "Select first team for comparison", width=NULL, 
                               selectInput("team_1", 
                                           label = "Team:", 
@@ -112,7 +123,7 @@ shinyUI(
                         ),
                         column(width = 6,
                                box(
-                                 title = "Team 2", status = "primary", solidHeader = TRUE, height = 400,
+                                 title = "Team 2", status = "primary", solidHeader = TRUE, height = 385,
                                  "Select second team for comparison", width=NULL, 
                                  selectInput("team_2", 
                                              label = "Team:", 
@@ -142,7 +153,7 @@ shinyUI(
                          fluidRow(
                            column(width = 6, align = "center",
                                   box(
-                                    title = "Team 1 Stats", status = "primary", solidHeader = TRUE, height = 600,
+                                    title = "Team 1 Stats", status = "primary", solidHeader = TRUE, height = 580,
                                     width=NULL, 
                                     fluidRow(uiOutput("img_team_1")), br(),
                                     fluidRow(infoBoxOutput("team_1_points_for", width = 12)),
@@ -153,7 +164,7 @@ shinyUI(
                            ),
                            column(width = 6, align = "center",
                                   box(
-                                    title = "Team 2 Stats", status = "primary", solidHeader = TRUE, height = 600,
+                                    title = "Team 2 Stats", status = "primary", solidHeader = TRUE, height = 580,
                                     width=NULL, 
                                     uiOutput("img_team_2"), br(),
                                     fluidRow(infoBoxOutput("team_2_points_for", width = 12)),
