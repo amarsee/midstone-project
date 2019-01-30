@@ -15,7 +15,9 @@ I sought to build an interactive web application to explore NBA stats. I've alwa
 
 ## Data 
 
-I used the [ballr package](https://cran.r-project.org/web/packages/ballr/ballr.pdf) to compile whole team schedules and results for the 2014 to present seasons.
+I used the [ballr package](https://cran.r-project.org/web/packages/ballr/ballr.pdf) to compile whole team schedules and results for the 2014 to present seasons.  
+
+This package scrapes box scores from the basketball-reference website.
 
 ## Shiny App 
 
