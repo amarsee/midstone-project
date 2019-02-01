@@ -23,7 +23,7 @@ This package scrapes box scores from the [basketball-reference](https://www.bask
 
 The Shiny App is split into 2 pages: League Wide Point Difference and Team Comparison
 
-### League Margin of Victory
+## League Margin of Victory
 This page shows a graph with the average margin of victory for each team for a given set of parameters.
 
 <img src="/../screenshots/league.png" width="800" height="500" title="League Page">
@@ -50,7 +50,7 @@ This page shows a graph with the average margin of victory for each team for a g
    
  * There is a table below the plot with games that fit the paramters. Filters are at the top to search for certain team or stat.
   
-### Team Comparison
+## Team Comparison
 
 Select two teams for comparison. The parameters are structured the same as the League Margin of Victory page.
 
