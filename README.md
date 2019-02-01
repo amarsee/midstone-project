@@ -33,12 +33,12 @@ This page shows a graph with the average margin of victory for each team for a g
  
  * A team can be selected to focus on. This draws a box around the circle so that you can easily find the team as the bubble shifts when the parameters are changed.
    * Teams are shown by their abbreviations
- <img src="/../screenshots/radio_buttons.png" width="300" height="400" title="Radio Parameters"> 
+ <img src="/../screenshots/radio_buttons.png" width="500" height="400" title="Radio Parameters"> 
  
  * Time Slot
    * The time slot is the time at which the game is played. It is the typical weeknight time slot. Teams tend to play at either 7 or 7:30 local time, so a Pacific time slot game is one played at either 7 or 7:30 Pacific Time. Any game not played at a standard time falls into other. These are games typically on either weekends or holidays.
  * Days Rest
    * The days rest is the time from one game to the next. So, if a team plays one evening and plays again the next evening, that counts as one day of rest.
  * Home/Away
-  * Choose stats for when a team plays on their home court or away. Either represents all games.
+   * Choose stats for when a team plays on their home court or away. Either represents all games.
 ### Team Comparison
