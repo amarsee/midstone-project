@@ -3,7 +3,7 @@ library(dplyr)
 library(tidyverse)
 library(broom)
 
-# NBA stats updated through 1/25/19
+# NBA stats updated through 1/31/19
 
 nba_85_to_present <- read_csv("data/nba_season_data_1985_to_present_relevant_columns.csv", col_types = "dcdccccccddddcdddd")
 nba_85_to_present$away_indicator <- nba_85_to_present$away_indicator %>% replace_na("")
