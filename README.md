@@ -25,7 +25,9 @@ The Shiny App is split into 2 pages: League Wide Point Difference and Team Compa
 
 ### League Margin of Victory
 This page shows a graph with the average margin of victory for each team for a given set of parameters.
+
 <img src="/../screenshots/league.png" width="800" height="500" title="League Page">
+
  * Season
    * Select a season for stats. For this site the season will refer to the year in which the season finishes (e.g. 2018 is the 2017-18 season)
  * Team to Highlight
