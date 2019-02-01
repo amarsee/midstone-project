@@ -50,7 +50,7 @@ Select two teams for comparison. The parameters are structured the same as the L
  * The side-by-side boxes show the average points scored, points against, and margin of victory. This can be used to see what might happen when those teams meet under the specified circumstances.  
  * Below the comparison is a table of games between those teams.
  
- <img src="/../screenshots/team_comp_table.png" width="600" height="200" title="Table with Compared Teams"> 
+ <img src="/../screenshots/team_comp_table.png" width="800" height="200" title="Table with Compared Teams"> 
  
  * One thing to note is for this site only games with 1, 2, or 3 days of rest are included. Notable games excluded are the first game of the season and the first game after the All Star Break. There is a small sample size of games with days of rest outside of 1 through 3, so they were excluded and will not show up in the data table of the Team Comparison page.
 
