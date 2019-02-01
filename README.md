@@ -31,10 +31,12 @@ This page shows a graph with the average margin of victory for each team for a g
  * Season
    * Select a season for stats. For this site the season will refer to the year in which the season finishes (e.g. 2018 is the 2017-18 season)
  * Team to Highlight
+ 
  <img src="/../screenshots/team_selection.png" width="300" height="400" title="Team Selection">    
  
  * A team can be selected to focus on. This draws a box around the circle so that you can easily find the team as the bubble shifts when the parameters are changed.
    * Teams are shown by their abbreviations
+   
  <img src="/../screenshots/radio_buttons.png" width="300" height="250" title="Radio Parameters"> 
  
  * Time Slot
@@ -43,6 +45,11 @@ This page shows a graph with the average margin of victory for each team for a g
    * The days rest is the time from one game to the next. So, if a team plays one evening and plays again the next evening, that counts as one day of rest.
  * Home/Away
    * Choose stats for when a team plays on their home court or away. Either represents all games.
+   
+  <img src="/../screenshots/league_table.png" width="800" height="300" title="Radio Parameters"> 
+   
+ * There is a table below the plot with games that fit the paramters. Filters are at the top to search for certain team or stat.
+  
 ### Team Comparison
 
 Select two teams for comparison. The parameters are structured the same as the League Margin of Victory page.
