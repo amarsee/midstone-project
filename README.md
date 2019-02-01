@@ -44,7 +44,7 @@ This page shows a graph with the average margin of victory for each team for a g
  * Days Rest
    * The days rest is the time from one game to the next. So, if a team plays one evening and plays again the next evening, that counts as one day of rest.
  * Home/Away
-   * Choose stats for when a team plays on their home court or away. Either represents all games.
+   * Choose stats for when a team plays on their home court or away. Either represents all games.  
    
   <img src="/../screenshots/league_table.png" width="850" height="450" title="League Table Data"> 
    
