@@ -17,8 +17,13 @@ I sought to build an interactive web application to explore NBA stats. I've alwa
 
 I used the [ballr package](https://cran.r-project.org/web/packages/ballr/ballr.pdf) to compile whole team schedules and results for the 2014 to present seasons.  
 
-This package scrapes box scores from the basketball-reference website.
+This package scrapes box scores from the [basketball-reference](https://www.basketball-reference.com/) website.
 
 ## Shiny App 
 
 The Shiny App is split into 2 pages: League Wide Point Difference and Team Comparison
+
+### League Margin of Victory
+
+
+### Team Comparison
