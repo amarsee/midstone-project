@@ -29,8 +29,9 @@ This page shows a graph with the average margin of victory for each team for a g
  * Season
    * Select a season for stats. For this site the season will refer to the year in which the season finishes (e.g. 2018 is the 2017-18 season)
  * Team to Highlight
- <img src="/../screenshots/team_selection.png" width="300" height="400" title="Team Selection">
-   * A team can be selected to focus on. This draws a box around the circle so that you can easily find the team as the bubble shifts when the parameters are changed.
+ <img src="/../screenshots/team_selection.png" width="300" height="400" title="Team Selection">    
+ 
+ * A team can be selected to focus on. This draws a box around the circle so that you can easily find the team as the bubble shifts when the parameters are changed.
    * Teams are shown by their abbreviations
  <img src="/../screenshots/radio_buttons.png" width="300" height="400" title="Radio Parameters">
  * Time Slot
