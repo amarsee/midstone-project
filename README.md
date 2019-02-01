@@ -46,7 +46,7 @@ This page shows a graph with the average margin of victory for each team for a g
  * Home/Away
    * Choose stats for when a team plays on their home court or away. Either represents all games.
    
-  <img src="/../screenshots/league_table.png" width="800" height="400" title="League Table Data"> 
+  <img src="/../screenshots/league_table.png" width="850" height="450" title="League Table Data"> 
    
  * There is a table below the plot with games that fit the paramters. Filters are at the top to search for certain team or stat.
   
