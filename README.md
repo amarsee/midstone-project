@@ -19,6 +19,22 @@ I used the [ballr package](https://cran.r-project.org/web/packages/ballr/ballr.p
 
 This package scrapes box scores from the [basketball-reference](https://www.basketball-reference.com/) website.
 
+## Files 
+
+ * nba_rest_effects_DataSetup  
+   * Explores how the functions of ballr operate
+   * combineYears is a function that combines the schedule from every team into one dataframe
+   * Combines seasons from 2014 to present and writes to a csv file
+     * Also combined 1985 to present, but was not used in Shiny App
+ * nba_rest_effect_Exploration
+   * Explores data set and writes out final data to rds file for the Shiny App
+ * nba-stats-shiny-dashboard
+   * Contains global, ui, and server files for the Shiny App
+ * Data
+   * Contains data files produced by setup file  
+ * Proposal
+   * PDF of project proposal
+
 ## Shiny App 
 
 The Shiny App is split into 2 pages: League Wide Point Difference and Team Comparison
