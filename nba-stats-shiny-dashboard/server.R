@@ -85,7 +85,7 @@ shinyServer(function(input, output) {
       geom_text(color="black", size=2) +
       labs(title="Average Margin of Victory By Team", 
            y = "Average Margin of Victory", x = "Team") + 
-      ylim(-16, 16) +
+      ylim(-17.5, 17.5) +
       #ylim(as.integer(min(nba_grouped$mean_differential)) - 1, as.integer(max(nba_grouped$mean_differential)) + 1) +
       theme_bw() +
       theme(axis.text = black.bold.italic.11.text, axis.title = black.bold.italic.15.text)

@@ -7,7 +7,7 @@ shinyUI(
     # Sidebar
     dashboardSidebar(
       sidebarMenu(
-        "Data Last Updated: January 31, 2019", br(), br(),
+        "Data Last Updated: February 9, 2019", br(), br(),
         menuItem("Overview", tabName = "overview", icon = icon("bookmark")),
         menuItem("League Margin of Victory", tabName = "point_diff", icon = icon("basketball-ball")),
         menuItem("Team Comparison", tabName = "team_comp", icon = icon("balance-scale")),
@@ -24,10 +24,10 @@ shinyUI(
         tabItem(tabName = "overview",
                 fluidRow(
                   box(
-                    title = "Welcome", status = "primary", solidHeader = TRUE, height = 1250, width = 12,
+                    title = "Welcome", status = "primary", solidHeader = TRUE, height = 1300, width = 12,
                     h1("Introduction"),
                     p("This shiny app was built as a way to explore some NBA team stats. I wanted to explore how rest 
-                    and travel affect NBA. This was done by visualizing how the number of days rest affect the average 
+                    and travel affect NBA teams. This was done by visualizing how the number of days rest and location of the game affect the average 
                     margin of victory. Average margin of victory serves as a proxy for a team's performance. The average 
                     margin of victory is higher for teams that perform better, and lower for worse teams."),
                     p("The site contains 2 pages. The first of which is the league margin of victory. Different 
@@ -36,20 +36,23 @@ shinyUI(
                       to see how they perform under different circumstances."),
                     h1("League Margin of Victory"),
                     p("The League Margin of Victory page provides a space to view how the league as a whole
-                      performs for a set of rest and travel parameters"),
+                      performs for a set of rest and travel parameters. The limits are fixed at +/- 17.5, rather than 
+                      dynamically adjusting, to easily see how teams shift when parameters are adjusted. If a team
+                      does not show up, their margin of victory is either outside of 17.5 or there is no data. For 
+                      example the Atlanta Hawks will play no home games in the Pacific Time zone."),
                     p("There is also a table below the plot with games that fit the paramters. Filters are
-                      at the top to search for certain team or stat."),
+                      at the top to search for a certain team or stat."),
                     h3("Season"),
                     p("Select a season for stats. For this site the season will refer to the year in which the 
                       season finishes (e.g. 2018 is the 2017-18 season)"),
                     h3("Team to Highlight"),
-                    p("A team can be selected to focus on. This draws a box around the circle so that 
+                    p("A team can be selected to focus on. Upon selection, box is drawn around the circle so that 
                       you can easily find the team as the bubble shifts when the parameters are changed."),
                     h3("Time Slot"),
                     p("The time slot is the time at which the game is played. It is the typical weeknight time slot.
                       Teams tend to play at either 7 or 7:30 local time, so a Pacific time slot game is one played
                       at either 7 or 7:30 Pacific Time. Any game not played at a standard time falls into other. 
-                      These are games typically on either weekends or holidays."),
+                      These are games typically played on either weekends or holidays."),
                     h3("Days Rest"),
                     p("The days rest is the time from one game to the next. So, if a team plays one evening and 
                       plays again the next evening, that counts as one day of rest."),
@@ -62,7 +65,7 @@ shinyUI(
                     p("The side-by-side boxes show the average points scored, points against, and margin of victory.
                       This can be used to see what might happen when those teams meet under the specified circumstances."),
                     p("Below the comparison is a table of games between those teams."),
-                    p("One thing to note is for this 
+                    p("One thing to note is that for this 
                       site only games with 1, 2, or 3 days of rest are included. Notable games excluded are 
                       the first game of the season and the first game after the All Star Break. There is a 
                       small sample size of games with days of rest outside of 1 through 3, so they were excluded
