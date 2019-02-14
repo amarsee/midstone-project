@@ -67,7 +67,10 @@ shinyServer(function(input, output) {
       group_by(team) %>% 
       summarise(
         mean_differential = round(mean(diff, na.rm = TRUE), 1)
-        )
+        ) %>% 
+      ungroup() %>% 
+      filter(!is.na(mean_differential))
+    
     nba_grouped$diff_type <- ifelse(nba_grouped$mean_differential < 0, "Negative", "Positive")  
     nba_grouped <- nba_grouped[order(nba_grouped$mean_differential), ]  # sort
     nba_grouped$team <- factor(nba_grouped$team, levels = nba_grouped$team)
@@ -77,6 +80,9 @@ shinyServer(function(input, output) {
     black.bold.italic.11.text <- element_text(face = "bold", color = "black", size = 11)
     black.bold.italic.15.text <- element_text(color = "black", size = 15)
     
+    y_min <- as.integer(min(nba_grouped$`Avg. Margin of Victory`, na.rm = TRUE)) - 1
+    y_max <- as.integer(max(nba_grouped$`Avg. Margin of Victory`, na.rm = TRUE)) + 1
+    
     p1 <- ggplot(nba_grouped, aes(x=Team, y=`Avg. Margin of Victory`, label=`Avg. Margin of Victory`)) + 
       geom_point(stat='identity', aes(col=diff_type), size=5, shape = 21)  +
       scale_color_manual(name="Margin of\n Victory", 
@@ -85,8 +91,8 @@ shinyServer(function(input, output) {
       geom_text(color="black", size=2) +
       labs(title="Average Margin of Victory By Team", 
            y = "Average Margin of Victory", x = "Team") + 
-      ylim(-17.5, 17.5) +
-      #ylim(as.integer(min(nba_grouped$mean_differential)) - 1, as.integer(max(nba_grouped$mean_differential)) + 1) +
+      # ylim(-17.5, 17.5) +
+      ylim(y_min, y_max) +
       theme_bw() +
       theme(axis.text = black.bold.italic.11.text, axis.title = black.bold.italic.15.text)
     

@@ -36,9 +36,9 @@ shinyUI(
                       to see how they perform under different circumstances."),
                     h1("League Margin of Victory"),
                     p("The League Margin of Victory page provides a space to view how the league as a whole
-                      performs for a set of rest and travel parameters. The limits are fixed at +/- 17.5, rather than 
-                      dynamically adjusting, to easily see how teams shift when parameters are adjusted. If a team
-                      does not show up, their margin of victory is either outside of 17.5 or there is no data. For 
+                      performs for a set of rest and travel parameters. The limits are dynamic, they change to show
+                      all data when parameters are changed. If a team
+                      does not show up, there is no data for a team with those parameters. For 
                       example the Atlanta Hawks will play no home games in the Pacific Time zone."),
                     p("There is also a table below the plot with games that fit the paramters. Filters are
                       at the top to search for a certain team or stat."),
