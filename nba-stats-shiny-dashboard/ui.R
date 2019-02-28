@@ -7,7 +7,7 @@ shinyUI(
     # Sidebar
     dashboardSidebar(
       sidebarMenu(
-        "Data Last Updated: February 9, 2019", br(), br(),
+        "Data Last Updated: February 28, 2019", br(), br(),
         menuItem("Overview", tabName = "overview", icon = icon("bookmark")),
         menuItem("League Margin of Victory", tabName = "point_diff", icon = icon("basketball-ball")),
         menuItem("Team Comparison", tabName = "team_comp", icon = icon("balance-scale")),

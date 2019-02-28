@@ -45,9 +45,9 @@ tots <- combineYears(2014, 2019)
 # write.csv(relevantColumnsKept, file = "nba_season_data_1985_to_present_relevant_columns.csv",row.names=FALSE)
 
 # ----------------- Keeping columns relevant for analysis -------------------
-relevantColumnsKept <- nba85toCurrent %>%
-  select(year, team, g, date, start_et, away_indicator, opponent, x_4, x_5, tm, opp,
-         w, l, streak, diff, avg_diff, away, daysbetweengames)
+# relevantColumnsKept <- nba85toCurrent %>%
+#   select(year, team, g, date, start_et, away_indicator, opponent, x_4, x_5, tm, opp,
+#          w, l, streak, diff, avg_diff, away, daysbetweengames)
 
 relevantColumnsKept_tots <- tots %>%
   select(year, team, g, date, start_et, away_indicator, opponent, x_4, x_5, tm, opp,

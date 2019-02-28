@@ -36,12 +36,12 @@ nba_14_to_merge <- nba_14_to_present %>%
 #             mean_points_against = mean(opp, na.rm = TRUE),
 #             mean_differential = mean(diff, na.rm = TRUE))
 
-nba_total_grouped_by_year_days_rest <- nba_85_to_present %>% 
-  select(year, team, daysbetweengames, tm, opp, diff) %>% 
-  group_by(year, daysbetweengames) %>% 
-  summarise(mean_points_for = mean(tm, na.rm = TRUE),
-            mean_points_against = mean(opp, na.rm = TRUE),
-            mean_differential = mean(diff, na.rm = TRUE))
+# nba_total_grouped_by_year_days_rest <- nba_85_to_present %>% 
+#   select(year, team, daysbetweengames, tm, opp, diff) %>% 
+#   group_by(year, daysbetweengames) %>% 
+#   summarise(mean_points_for = mean(tm, na.rm = TRUE),
+#             mean_points_against = mean(opp, na.rm = TRUE),
+#             mean_differential = mean(diff, na.rm = TRUE))
 
 nba_14_to_present <- nba_14_to_present %>%
   mutate(
