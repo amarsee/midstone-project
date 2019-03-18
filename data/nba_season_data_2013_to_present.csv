@@ -12441,16 +12441,16 @@
 2019,"OKC",58,"Fri, Feb 22, 2019","9:30p","","Utah Jazz","W","2OT",148,147,38,20,"W 1",1,5.17241379310345,30,8
 2019,"OKC",59,"Sat, Feb 23, 2019","8:00p","","Sacramento Kings","L","",116,119,38,21,"L 1",-3,5.03389830508475,30,1
 2019,"OKC",60,"Tue, Feb 26, 2019","10:30p","@","Denver Nuggets","L","",112,121,38,22,"L 2",-9,4.8,31,3
-2019,"OKC",61,"Thu, Feb 28, 2019","8:00p","","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"OKC",62,"Sat, Mar 2, 2019","8:30p","@","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"OKC",63,"Sun, Mar 3, 2019","7:00p","","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,32,1
-2019,"OKC",64,"Tue, Mar 5, 2019","8:00p","@","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"OKC",65,"Thu, Mar 7, 2019","10:30p","@","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"OKC",66,"Fri, Mar 8, 2019","10:30p","@","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,35,1
-2019,"OKC",67,"Mon, Mar 11, 2019","9:00p","@","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,36,3
-2019,"OKC",68,"Wed, Mar 13, 2019","7:00p","","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,36,2
-2019,"OKC",69,"Thu, Mar 14, 2019","7:00p","@","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,37,1
-2019,"OKC",70,"Sat, Mar 16, 2019","8:30p","","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,37,2
+2019,"OKC",61,"Thu, Feb 28, 2019","8:00p","","Philadelphia 76ers","L","",104,108,38,23,"L 3",-4,4.65573770491803,31,2
+2019,"OKC",62,"Sat, Mar 2, 2019","8:30p","@","San Antonio Spurs","L","",102,116,38,24,"L 4",-14,4.35483870967742,32,2
+2019,"OKC",63,"Sun, Mar 3, 2019","7:00p","","Memphis Grizzlies","W","",99,95,39,24,"W 1",4,4.34920634920635,32,1
+2019,"OKC",64,"Tue, Mar 5, 2019","8:00p","@","Minnesota Timberwolves","L","",120,131,39,25,"L 1",-11,4.109375,33,2
+2019,"OKC",65,"Thu, Mar 7, 2019","10:30p","@","Portland Trail Blazers","W","OT",129,121,40,25,"W 1",8,4.16923076923077,34,2
+2019,"OKC",66,"Fri, Mar 8, 2019","10:30p","@","Los Angeles Clippers","L","",110,118,40,26,"L 1",-8,3.98484848484848,35,1
+2019,"OKC",67,"Mon, Mar 11, 2019","9:00p","@","Utah Jazz","W","",98,89,41,26,"W 1",9,4.05970149253731,36,3
+2019,"OKC",68,"Wed, Mar 13, 2019","7:00p","","Brooklyn Nets","W","",108,96,42,26,"W 2",12,4.17647058823529,36,2
+2019,"OKC",69,"Thu, Mar 14, 2019","7:00p","@","Indiana Pacers","L","",106,108,42,27,"L 1",-2,4.08695652173913,37,1
+2019,"OKC",70,"Sat, Mar 16, 2019","8:30p","","Golden State Warriors","L","",88,110,42,28,"L 2",-22,3.71428571428571,37,2
 2019,"OKC",71,"Mon, Mar 18, 2019","8:00p","","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"OKC",72,"Wed, Mar 20, 2019","9:30p","","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"OKC",73,"Fri, Mar 22, 2019","7:30p","@","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,38,2
@@ -12525,15 +12525,15 @@
 2019,"PHO",60,"Thu, Feb 21, 2019","7:00p","@","Cleveland Cavaliers","L","",98,111,11,49,"L 16",-13,-10.25,31,8
 2019,"PHO",61,"Sat, Feb 23, 2019","7:00p","@","Atlanta Hawks","L","",112,120,11,50,"L 17",-8,-10.2131147540984,32,2
 2019,"PHO",62,"Mon, Feb 25, 2019","7:30p","@","Miami Heat","W","",124,121,12,50,"W 1",3,-10,33,2
-2019,"PHO",63,"Fri, Mar 1, 2019","9:00p","","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,33,4
-2019,"PHO",64,"Sat, Mar 2, 2019","9:00p","","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,33,1
-2019,"PHO",65,"Mon, Mar 4, 2019","9:00p","","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"PHO",66,"Wed, Mar 6, 2019","9:00p","","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"PHO",67,"Sat, Mar 9, 2019","10:00p","@","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,34,3
-2019,"PHO",68,"Sun, Mar 10, 2019","8:30p","@","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,35,1
-2019,"PHO",69,"Wed, Mar 13, 2019","10:00p","","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,35,3
-2019,"PHO",70,"Fri, Mar 15, 2019","8:00p","@","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,36,2
-2019,"PHO",71,"Sat, Mar 16, 2019","7:00p","@","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,37,1
+2019,"PHO",63,"Fri, Mar 1, 2019","9:00p","","New Orleans Pelicans","L","",116,130,12,51,"L 1",-14,-10.0634920634921,33,4
+2019,"PHO",64,"Sat, Mar 2, 2019","9:00p","","Los Angeles Lakers","W","",118,109,13,51,"W 1",9,-9.765625,33,1
+2019,"PHO",65,"Mon, Mar 4, 2019","9:00p","","Milwaukee Bucks","W","",114,105,14,51,"W 2",9,-9.47692307692308,33,2
+2019,"PHO",66,"Wed, Mar 6, 2019","9:00p","","New York Knicks","W","",107,96,15,51,"W 3",11,-9.16666666666667,33,2
+2019,"PHO",67,"Sat, Mar 9, 2019","10:00p","@","Portland Trail Blazers","L","",120,127,15,52,"L 1",-7,-9.13432835820896,34,3
+2019,"PHO",68,"Sun, Mar 10, 2019","8:30p","@","Golden State Warriors","W","",115,111,16,52,"W 1",4,-8.94117647058824,35,1
+2019,"PHO",69,"Wed, Mar 13, 2019","10:00p","","Utah Jazz","L","",97,114,16,53,"L 1",-17,-9.05797101449275,35,3
+2019,"PHO",70,"Fri, Mar 15, 2019","8:00p","@","Houston Rockets","L","",102,108,16,54,"L 2",-6,-9.01428571428571,36,2
+2019,"PHO",71,"Sat, Mar 16, 2019","7:00p","@","New Orleans Pelicans","W","OT",138,136,17,54,"W 1",2,-8.85915492957746,37,1
 2019,"PHO",72,"Mon, Mar 18, 2019","10:00p","","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"PHO",73,"Thu, Mar 21, 2019","10:00p","","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,37,3
 2019,"PHO",74,"Sat, Mar 23, 2019","10:00p","@","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,38,2
@@ -12607,14 +12607,14 @@
 2019,"ATL",60,"Sat, Feb 23, 2019","7:00p","","Phoenix Suns","W","",120,112,20,40,"W 1",8,-7.21666666666667,32,1
 2019,"ATL",61,"Mon, Feb 25, 2019","8:00p","@","Houston Rockets","L","",111,119,20,41,"L 1",-8,-7.22950819672131,33,2
 2019,"ATL",62,"Wed, Feb 27, 2019","7:30p","","Minnesota Timberwolves","W","OT",131,123,21,41,"W 1",8,-6.98387096774194,33,2
-2019,"ATL",63,"Fri, Mar 1, 2019","7:30p","","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"ATL",64,"Sun, Mar 3, 2019","3:30p","@","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"ATL",65,"Mon, Mar 4, 2019","7:30p","@","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,35,1
-2019,"ATL",66,"Wed, Mar 6, 2019","7:30p","","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,35,2
-2019,"ATL",67,"Sat, Mar 9, 2019","7:00p","","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,35,3
-2019,"ATL",68,"Sun, Mar 10, 2019","6:00p","","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,35,1
-2019,"ATL",69,"Wed, Mar 13, 2019","7:30p","","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,35,3
-2019,"ATL",70,"Sat, Mar 16, 2019","12:30p","@","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,36,3
+2019,"ATL",63,"Fri, Mar 1, 2019","7:30p","","Chicago Bulls","L","4OT",161,168,21,42,"L 1",-7,-6.98412698412698,33,2
+2019,"ATL",64,"Sun, Mar 3, 2019","3:30p","@","Chicago Bulls","W","",123,118,22,42,"W 1",5,-6.796875,34,2
+2019,"ATL",65,"Mon, Mar 4, 2019","7:30p","@","Miami Heat","L","",113,114,22,43,"L 1",-1,-6.70769230769231,35,1
+2019,"ATL",66,"Wed, Mar 6, 2019","7:30p","","San Antonio Spurs","L","",104,111,22,44,"L 2",-7,-6.71212121212121,35,2
+2019,"ATL",67,"Sat, Mar 9, 2019","7:00p","","Brooklyn Nets","L","",112,114,22,45,"L 3",-2,-6.64179104477612,35,3
+2019,"ATL",68,"Sun, Mar 10, 2019","6:00p","","New Orleans Pelicans","W","",128,116,23,45,"W 1",12,-6.36764705882353,35,1
+2019,"ATL",69,"Wed, Mar 13, 2019","7:30p","","Memphis Grizzlies","W","",132,111,24,45,"W 2",21,-5.97101449275362,35,3
+2019,"ATL",70,"Sat, Mar 16, 2019","12:30p","@","Boston Celtics","L","",120,129,24,46,"L 1",-9,-6.01428571428571,36,3
 2019,"ATL",71,"Sun, Mar 17, 2019","6:00p","@","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,37,1
 2019,"ATL",72,"Tue, Mar 19, 2019","7:30p","","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"ATL",73,"Thu, Mar 21, 2019","7:30p","","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,37,2
@@ -12687,14 +12687,14 @@
 2019,"MIA",58,"Sat, Feb 23, 2019","7:30p","","Detroit Pistons","L","",96,119,26,32,"L 2",-23,-1.05172413793103,30,2
 2019,"MIA",59,"Mon, Feb 25, 2019","7:30p","","Phoenix Suns","L","",121,124,26,33,"L 3",-3,-1.08474576271186,30,2
 2019,"MIA",60,"Wed, Feb 27, 2019","7:30p","","Golden State Warriors","W","",126,125,27,33,"W 1",1,-1.05,30,2
-2019,"MIA",61,"Thu, Feb 28, 2019","8:00p","@","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,31,1
-2019,"MIA",62,"Sat, Mar 2, 2019","7:30p","","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"MIA",63,"Mon, Mar 4, 2019","7:30p","","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"MIA",64,"Wed, Mar 6, 2019","7:00p","@","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"MIA",65,"Fri, Mar 8, 2019","8:00p","","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"MIA",66,"Sun, Mar 10, 2019","3:30p","","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"MIA",67,"Wed, Mar 13, 2019","7:30p","","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"MIA",68,"Fri, Mar 15, 2019","8:00p","","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,32,2
+2019,"MIA",61,"Thu, Feb 28, 2019","8:00p","@","Houston Rockets","L","",118,121,27,34,"L 1",-3,-1.08196721311475,31,1
+2019,"MIA",62,"Sat, Mar 2, 2019","7:30p","","Brooklyn Nets","W","",117,88,28,34,"W 1",29,-0.596774193548387,31,2
+2019,"MIA",63,"Mon, Mar 4, 2019","7:30p","","Atlanta Hawks","W","",114,113,29,34,"W 2",1,-0.571428571428571,31,2
+2019,"MIA",64,"Wed, Mar 6, 2019","7:00p","@","Charlotte Hornets","W","",91,84,30,34,"W 3",7,-0.453125,32,2
+2019,"MIA",65,"Fri, Mar 8, 2019","8:00p","","Cleveland Cavaliers","W","",126,110,31,34,"W 4",16,-0.2,32,2
+2019,"MIA",66,"Sun, Mar 10, 2019","3:30p","","Toronto Raptors","L","",104,125,31,35,"L 1",-21,-0.515151515151515,32,2
+2019,"MIA",67,"Wed, Mar 13, 2019","7:30p","","Detroit Pistons","W","",108,74,32,35,"W 1",34,0,32,3
+2019,"MIA",68,"Fri, Mar 15, 2019","8:00p","","Milwaukee Bucks","L","",98,113,32,36,"L 1",-15,-0.220588235294118,32,2
 2019,"MIA",69,"Sun, Mar 17, 2019","1:00p","","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,32,2
 2019,"MIA",70,"Mon, Mar 18, 2019","8:00p","@","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,33,1
 2019,"MIA",71,"Wed, Mar 20, 2019","8:30p","@","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,34,2
@@ -12770,15 +12770,15 @@
 2019,"CLE",59,"Thu, Feb 21, 2019","7:00p","","Phoenix Suns","W","",111,98,13,46,"W 1",13,-10.135593220339,29,8
 2019,"CLE",60,"Sat, Feb 23, 2019","7:00p","","Memphis Grizzlies","W","",112,107,14,46,"W 2",5,-9.88333333333333,29,2
 2019,"CLE",61,"Mon, Feb 25, 2019","7:00p","","Portland Trail Blazers","L","",110,123,14,47,"L 1",-13,-9.9344262295082,29,2
-2019,"CLE",62,"Thu, Feb 28, 2019","7:30p","@","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"CLE",63,"Sat, Mar 2, 2019","5:00p","","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"CLE",64,"Sun, Mar 3, 2019","6:00p","","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,30,1
-2019,"CLE",65,"Wed, Mar 6, 2019","7:30p","@","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,31,3
-2019,"CLE",66,"Fri, Mar 8, 2019","8:00p","@","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"CLE",67,"Mon, Mar 11, 2019","7:00p","","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"CLE",68,"Tue, Mar 12, 2019","7:00p","@","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,33,1
-2019,"CLE",69,"Thu, Mar 14, 2019","7:00p","@","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"CLE",70,"Sat, Mar 16, 2019","8:30p","@","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,35,2
+2019,"CLE",62,"Thu, Feb 28, 2019","7:30p","@","New York Knicks","W","",125,118,15,47,"W 1",7,-9.66129032258065,30,3
+2019,"CLE",63,"Sat, Mar 2, 2019","5:00p","","Detroit Pistons","L","",93,129,15,48,"L 1",-36,-10.0793650793651,30,2
+2019,"CLE",64,"Sun, Mar 3, 2019","6:00p","","Orlando Magic","W","",107,93,16,48,"W 1",14,-9.703125,30,1
+2019,"CLE",65,"Wed, Mar 6, 2019","7:30p","@","Brooklyn Nets","L","",107,113,16,49,"L 1",-6,-9.64615384615385,31,3
+2019,"CLE",66,"Fri, Mar 8, 2019","8:00p","@","Miami Heat","L","",110,126,16,50,"L 2",-16,-9.74242424242424,32,2
+2019,"CLE",67,"Mon, Mar 11, 2019","7:00p","","Toronto Raptors","W","",126,101,17,50,"W 1",25,-9.22388059701493,32,3
+2019,"CLE",68,"Tue, Mar 12, 2019","7:00p","@","Philadelphia 76ers","L","",99,106,17,51,"L 1",-7,-9.19117647058824,33,1
+2019,"CLE",69,"Thu, Mar 14, 2019","7:00p","@","Orlando Magic","L","",91,120,17,52,"L 2",-29,-9.47826086956522,34,2
+2019,"CLE",70,"Sat, Mar 16, 2019","8:30p","@","Dallas Mavericks","L","",116,121,17,53,"L 3",-5,-9.41428571428571,35,2
 2019,"CLE",71,"Mon, Mar 18, 2019","7:00p","","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"CLE",72,"Wed, Mar 20, 2019","7:00p","","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"CLE",73,"Fri, Mar 22, 2019","7:30p","","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,35,2
@@ -12851,14 +12851,14 @@
 2019,"DEN",58,"Fri, Feb 22, 2019","8:30p","@","Dallas Mavericks","W","",114,104,40,18,"W 3",10,4.98275862068965,29,9
 2019,"DEN",59,"Sun, Feb 24, 2019","5:00p","","Los Angeles Clippers","W","",123,96,41,18,"W 4",27,5.35593220338983,29,2
 2019,"DEN",60,"Tue, Feb 26, 2019","10:30p","","Oklahoma City Thunder","W","",121,112,42,18,"W 5",9,5.41666666666667,29,2
-2019,"DEN",61,"Thu, Feb 28, 2019","10:30p","","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,29,2
-2019,"DEN",62,"Sat, Mar 2, 2019","9:00p","","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,29,2
-2019,"DEN",63,"Mon, Mar 4, 2019","8:30p","@","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"DEN",64,"Wed, Mar 6, 2019","10:30p","@","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"DEN",65,"Fri, Mar 8, 2019","10:30p","@","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"DEN",66,"Tue, Mar 12, 2019","10:30p","","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,32,4
-2019,"DEN",67,"Thu, Mar 14, 2019","10:30p","","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"DEN",68,"Sat, Mar 16, 2019","9:00p","","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,32,2
+2019,"DEN",61,"Thu, Feb 28, 2019","10:30p","","Utah Jazz","L","",104,111,42,19,"L 1",-7,5.21311475409836,29,2
+2019,"DEN",62,"Sat, Mar 2, 2019","9:00p","","New Orleans Pelicans","L","",112,120,42,20,"L 2",-8,5,29,2
+2019,"DEN",63,"Mon, Mar 4, 2019","8:30p","@","San Antonio Spurs","L","",103,104,42,21,"L 3",-1,4.90476190476191,30,2
+2019,"DEN",64,"Wed, Mar 6, 2019","10:30p","@","Los Angeles Lakers","W","",115,99,43,21,"W 1",16,5.078125,31,2
+2019,"DEN",65,"Fri, Mar 8, 2019","10:30p","@","Golden State Warriors","L","",105,122,43,22,"L 1",-17,4.73846153846154,32,2
+2019,"DEN",66,"Tue, Mar 12, 2019","10:30p","","Minnesota Timberwolves","W","",133,107,44,22,"W 1",26,5.06060606060606,32,4
+2019,"DEN",67,"Thu, Mar 14, 2019","10:30p","","Dallas Mavericks","W","",100,99,45,22,"W 2",1,5,32,2
+2019,"DEN",68,"Sat, Mar 16, 2019","9:00p","","Indiana Pacers","W","",102,100,46,22,"W 3",2,4.95588235294118,32,2
 2019,"DEN",69,"Mon, Mar 18, 2019","7:30p","@","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,33,2
 2019,"DEN",70,"Thu, Mar 21, 2019","7:00p","@","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,34,3
 2019,"DEN",71,"Fri, Mar 22, 2019","7:30p","@","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,35,1
@@ -12936,13 +12936,13 @@
 2019,"SAS",61,"Sun, Feb 24, 2019","7:30p","@","New York Knicks","L","",118,130,33,28,"L 2",-12,0.704918032786885,32,2
 2019,"SAS",62,"Mon, Feb 25, 2019","7:30p","@","Brooklyn Nets","L","",85,101,33,29,"L 3",-16,0.435483870967742,33,1
 2019,"SAS",63,"Wed, Feb 27, 2019","8:30p","","Detroit Pistons","W","",105,93,34,29,"W 1",12,0.619047619047619,33,2
-2019,"SAS",64,"Sat, Mar 2, 2019","8:30p","","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"SAS",65,"Mon, Mar 4, 2019","8:30p","","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"SAS",66,"Wed, Mar 6, 2019","7:30p","@","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"SAS",67,"Sun, Mar 10, 2019","8:00p","","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,34,4
-2019,"SAS",68,"Tue, Mar 12, 2019","8:00p","@","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,35,2
-2019,"SAS",69,"Fri, Mar 15, 2019","8:30p","","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,35,3
-2019,"SAS",70,"Sat, Mar 16, 2019","8:30p","","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,35,1
+2019,"SAS",64,"Sat, Mar 2, 2019","8:30p","","Oklahoma City Thunder","W","",116,102,35,29,"W 2",14,0.828125,33,3
+2019,"SAS",65,"Mon, Mar 4, 2019","8:30p","","Denver Nuggets","W","",104,103,36,29,"W 3",1,0.830769230769231,33,2
+2019,"SAS",66,"Wed, Mar 6, 2019","7:30p","@","Atlanta Hawks","W","",111,104,37,29,"W 4",7,0.924242424242424,34,2
+2019,"SAS",67,"Sun, Mar 10, 2019","8:00p","","Milwaukee Bucks","W","",121,114,38,29,"W 5",7,1.01492537313433,34,4
+2019,"SAS",68,"Tue, Mar 12, 2019","8:00p","@","Dallas Mavericks","W","",112,105,39,29,"W 6",7,1.10294117647059,35,2
+2019,"SAS",69,"Fri, Mar 15, 2019","8:30p","","New York Knicks","W","",109,83,40,29,"W 7",26,1.46376811594203,35,3
+2019,"SAS",70,"Sat, Mar 16, 2019","8:30p","","Portland Trail Blazers","W","",108,103,41,29,"W 8",5,1.51428571428571,35,1
 2019,"SAS",71,"Mon, Mar 18, 2019","8:00p","","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"SAS",72,"Wed, Mar 20, 2019","8:30p","","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"SAS",73,"Fri, Mar 22, 2019","8:00p","@","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,36,2
@@ -13017,14 +13017,14 @@
 2019,"CHI",60,"Sat, Feb 23, 2019","8:00p","","Boston Celtics","W","",126,116,16,44,"W 3",10,-7.98333333333333,30,1
 2019,"CHI",61,"Mon, Feb 25, 2019","8:00p","","Milwaukee Bucks","L","",106,117,16,45,"L 1",-11,-8.0327868852459,30,2
 2019,"CHI",62,"Wed, Feb 27, 2019","8:00p","@","Memphis Grizzlies","W","",109,107,17,45,"W 1",2,-7.87096774193548,31,2
-2019,"CHI",63,"Fri, Mar 1, 2019","7:30p","@","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"CHI",64,"Sun, Mar 3, 2019","3:30p","","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"CHI",65,"Tue, Mar 5, 2019","7:00p","@","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"CHI",66,"Wed, Mar 6, 2019","8:00p","","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,33,1
-2019,"CHI",67,"Fri, Mar 8, 2019","8:00p","","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"CHI",68,"Sun, Mar 10, 2019","12:00p","@","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"CHI",69,"Tue, Mar 12, 2019","8:00p","","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"CHI",70,"Fri, Mar 15, 2019","10:30p","@","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,35,3
+2019,"CHI",63,"Fri, Mar 1, 2019","7:30p","@","Atlanta Hawks","W","4OT",168,161,18,45,"W 2",7,-7.63492063492064,32,2
+2019,"CHI",64,"Sun, Mar 3, 2019","3:30p","","Atlanta Hawks","L","",118,123,18,46,"L 1",-5,-7.59375,32,2
+2019,"CHI",65,"Tue, Mar 5, 2019","7:00p","@","Indiana Pacers","L","",96,105,18,47,"L 2",-9,-7.61538461538461,33,2
+2019,"CHI",66,"Wed, Mar 6, 2019","8:00p","","Philadelphia 76ers","W","",108,107,19,47,"W 1",1,-7.48484848484848,33,1
+2019,"CHI",67,"Fri, Mar 8, 2019","8:00p","","Detroit Pistons","L","",104,112,19,48,"L 1",-8,-7.49253731343284,33,2
+2019,"CHI",68,"Sun, Mar 10, 2019","12:00p","@","Detroit Pistons","L","",108,131,19,49,"L 2",-23,-7.72058823529412,34,2
+2019,"CHI",69,"Tue, Mar 12, 2019","8:00p","","Los Angeles Lakers","L","",107,123,19,50,"L 3",-16,-7.84057971014493,34,2
+2019,"CHI",70,"Fri, Mar 15, 2019","10:30p","@","Los Angeles Clippers","L","",121,128,19,51,"L 4",-7,-7.82857142857143,35,3
 2019,"CHI",71,"Sun, Mar 17, 2019","6:00p","@","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,36,2
 2019,"CHI",72,"Mon, Mar 18, 2019","10:00p","@","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,37,1
 2019,"CHI",73,"Wed, Mar 20, 2019","8:00p","","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,37,2
@@ -13097,15 +13097,15 @@
 2019,"UTA",58,"Fri, Feb 22, 2019","9:30p","@","Oklahoma City Thunder","L","2OT",147,148,32,26,"L 2",-1,3.17241379310345,30,10
 2019,"UTA",59,"Sat, Feb 23, 2019","10:00p","","Dallas Mavericks","W","",125,109,33,26,"W 1",16,3.38983050847458,30,1
 2019,"UTA",60,"Wed, Feb 27, 2019","9:00p","","Los Angeles Clippers","W","",111,105,34,26,"W 2",6,3.43333333333333,30,4
-2019,"UTA",61,"Thu, Feb 28, 2019","10:30p","@","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,31,1
-2019,"UTA",62,"Sat, Mar 2, 2019","9:00p","","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"UTA",63,"Mon, Mar 4, 2019","9:00p","","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"UTA",64,"Wed, Mar 6, 2019","8:00p","@","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"UTA",65,"Fri, Mar 8, 2019","8:00p","@","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"UTA",66,"Mon, Mar 11, 2019","9:00p","","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"UTA",67,"Wed, Mar 13, 2019","10:00p","@","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"UTA",68,"Thu, Mar 14, 2019","9:00p","","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,34,1
-2019,"UTA",69,"Sat, Mar 16, 2019","9:00p","","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,34,2
+2019,"UTA",61,"Thu, Feb 28, 2019","10:30p","@","Denver Nuggets","W","",111,104,35,26,"W 3",7,3.49180327868852,31,1
+2019,"UTA",62,"Sat, Mar 2, 2019","9:00p","","Milwaukee Bucks","W","",115,111,36,26,"W 4",4,3.5,31,2
+2019,"UTA",63,"Mon, Mar 4, 2019","9:00p","","New Orleans Pelicans","L","",112,115,36,27,"L 1",-3,3.3968253968254,31,2
+2019,"UTA",64,"Wed, Mar 6, 2019","8:00p","@","New Orleans Pelicans","W","",114,104,37,27,"W 1",10,3.5,32,2
+2019,"UTA",65,"Fri, Mar 8, 2019","8:00p","@","Memphis Grizzlies","L","",104,114,37,28,"L 1",-10,3.29230769230769,33,2
+2019,"UTA",66,"Mon, Mar 11, 2019","9:00p","","Oklahoma City Thunder","L","",89,98,37,29,"L 2",-9,3.10606060606061,33,3
+2019,"UTA",67,"Wed, Mar 13, 2019","10:00p","@","Phoenix Suns","W","",114,97,38,29,"W 1",17,3.3134328358209,34,2
+2019,"UTA",68,"Thu, Mar 14, 2019","9:00p","","Minnesota Timberwolves","W","",120,100,39,29,"W 2",20,3.55882352941176,34,1
+2019,"UTA",69,"Sat, Mar 16, 2019","9:00p","","Brooklyn Nets","W","",114,98,40,29,"W 3",16,3.73913043478261,34,2
 2019,"UTA",70,"Mon, Mar 18, 2019","7:00p","@","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"UTA",71,"Wed, Mar 20, 2019","7:30p","@","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,36,2
 2019,"UTA",72,"Thu, Mar 21, 2019","7:30p","@","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,37,1
@@ -13182,14 +13182,14 @@
 2019,"BRK",61,"Sat, Feb 23, 2019","7:00p","@","Charlotte Hornets","W","",117,115,31,30,"W 1",2,-0.60655737704918,30,2
 2019,"BRK",62,"Mon, Feb 25, 2019","7:30p","","San Antonio Spurs","W","",101,85,32,30,"W 2",16,-0.338709677419355,30,2
 2019,"BRK",63,"Wed, Feb 27, 2019","7:30p","","Washington Wizards","L","",116,125,32,31,"L 1",-9,-0.476190476190476,30,2
-2019,"BRK",64,"Fri, Mar 1, 2019","7:30p","","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"BRK",65,"Sat, Mar 2, 2019","7:30p","@","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,31,1
-2019,"BRK",66,"Mon, Mar 4, 2019","7:30p","","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"BRK",67,"Wed, Mar 6, 2019","7:30p","","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"BRK",68,"Sat, Mar 9, 2019","7:00p","@","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"BRK",69,"Mon, Mar 11, 2019","7:30p","","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"BRK",70,"Wed, Mar 13, 2019","7:00p","@","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"BRK",71,"Sat, Mar 16, 2019","9:00p","@","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,34,3
+2019,"BRK",64,"Fri, Mar 1, 2019","7:30p","","Charlotte Hornets","L","",112,123,32,32,"L 2",-11,-0.640625,30,2
+2019,"BRK",65,"Sat, Mar 2, 2019","7:30p","@","Miami Heat","L","",88,117,32,33,"L 3",-29,-1.07692307692308,31,1
+2019,"BRK",66,"Mon, Mar 4, 2019","7:30p","","Dallas Mavericks","W","",127,88,33,33,"W 1",39,-0.46969696969697,31,2
+2019,"BRK",67,"Wed, Mar 6, 2019","7:30p","","Cleveland Cavaliers","W","",113,107,34,33,"W 2",6,-0.373134328358209,31,2
+2019,"BRK",68,"Sat, Mar 9, 2019","7:00p","@","Atlanta Hawks","W","",114,112,35,33,"W 3",2,-0.338235294117647,32,3
+2019,"BRK",69,"Mon, Mar 11, 2019","7:30p","","Detroit Pistons","W","",103,75,36,33,"W 4",28,0.072463768115942,32,2
+2019,"BRK",70,"Wed, Mar 13, 2019","7:00p","@","Oklahoma City Thunder","L","",96,108,36,34,"L 1",-12,-0.1,33,2
+2019,"BRK",71,"Sat, Mar 16, 2019","9:00p","@","Utah Jazz","L","",98,114,36,35,"L 2",-16,-0.323943661971831,34,3
 2019,"BRK",72,"Sun, Mar 17, 2019","9:00p","@","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,35,1
 2019,"BRK",73,"Tue, Mar 19, 2019","10:00p","@","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,36,2
 2019,"BRK",74,"Fri, Mar 22, 2019","10:30p","@","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,37,3
@@ -13262,14 +13262,14 @@
 2019,"NYK",59,"Fri, Feb 22, 2019","7:30p","","Minnesota Timberwolves","L","",104,115,11,48,"L 1",-11,-8.72881355932203,31,8
 2019,"NYK",60,"Sun, Feb 24, 2019","7:30p","","San Antonio Spurs","W","",130,118,12,48,"W 1",12,-8.38333333333333,31,2
 2019,"NYK",61,"Tue, Feb 26, 2019","7:30p","","Orlando Magic","W","",108,103,13,48,"W 2",5,-8.16393442622951,31,2
-2019,"NYK",62,"Thu, Feb 28, 2019","7:30p","","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"NYK",63,"Sun, Mar 3, 2019","3:30p","@","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"NYK",64,"Mon, Mar 4, 2019","10:00p","@","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,33,1
-2019,"NYK",65,"Wed, Mar 6, 2019","9:00p","@","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"NYK",66,"Sat, Mar 9, 2019","12:00p","","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,34,3
-2019,"NYK",67,"Sun, Mar 10, 2019","8:00p","@","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,35,1
-2019,"NYK",68,"Tue, Mar 12, 2019","7:00p","@","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,36,2
-2019,"NYK",69,"Fri, Mar 15, 2019","8:30p","@","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,37,3
+2019,"NYK",62,"Thu, Feb 28, 2019","7:30p","","Cleveland Cavaliers","L","",118,125,13,49,"L 1",-7,-8.14516129032258,31,2
+2019,"NYK",63,"Sun, Mar 3, 2019","3:30p","@","Los Angeles Clippers","L","",107,128,13,50,"L 2",-21,-8.34920634920635,32,3
+2019,"NYK",64,"Mon, Mar 4, 2019","10:00p","@","Sacramento Kings","L","",108,115,13,51,"L 3",-7,-8.328125,33,1
+2019,"NYK",65,"Wed, Mar 6, 2019","9:00p","@","Phoenix Suns","L","",96,107,13,52,"L 4",-11,-8.36923076923077,34,2
+2019,"NYK",66,"Sat, Mar 9, 2019","12:00p","","Sacramento Kings","L","",94,102,13,53,"L 5",-8,-8.36363636363636,34,3
+2019,"NYK",67,"Sun, Mar 10, 2019","8:00p","@","Minnesota Timberwolves","L","",92,103,13,54,"L 6",-11,-8.40298507462687,35,1
+2019,"NYK",68,"Tue, Mar 12, 2019","7:00p","@","Indiana Pacers","L","",98,103,13,55,"L 7",-5,-8.35294117647059,36,2
+2019,"NYK",69,"Fri, Mar 15, 2019","8:30p","@","San Antonio Spurs","L","",83,109,13,56,"L 8",-26,-8.60869565217391,37,3
 2019,"NYK",70,"Sun, Mar 17, 2019","12:00p","","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"NYK",71,"Mon, Mar 18, 2019","7:30p","@","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,38,1
 2019,"NYK",72,"Wed, Mar 20, 2019","7:30p","","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,38,2
@@ -13344,14 +13344,14 @@
 2019,"POR",59,"Sat, Feb 23, 2019","1:00p","@","Philadelphia 76ers","W","",130,115,36,23,"W 3",15,3.40677966101695,27,2
 2019,"POR",60,"Mon, Feb 25, 2019","7:00p","@","Cleveland Cavaliers","W","",123,110,37,23,"W 4",13,3.56666666666667,28,2
 2019,"POR",61,"Wed, Feb 27, 2019","8:00p","@","Boston Celtics","W","",97,92,38,23,"W 5",5,3.59016393442623,29,2
-2019,"POR",62,"Fri, Mar 1, 2019","8:00p","@","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"POR",63,"Sun, Mar 3, 2019","1:00p","@","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"POR",64,"Tue, Mar 5, 2019","8:00p","@","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"POR",65,"Thu, Mar 7, 2019","10:30p","","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"POR",66,"Sat, Mar 9, 2019","10:00p","","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"POR",67,"Tue, Mar 12, 2019","10:30p","@","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"POR",68,"Fri, Mar 15, 2019","8:00p","@","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,34,3
-2019,"POR",69,"Sat, Mar 16, 2019","8:30p","@","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,35,1
+2019,"POR",62,"Fri, Mar 1, 2019","8:00p","@","Toronto Raptors","L","",117,119,38,24,"L 1",-2,3.5,30,2
+2019,"POR",63,"Sun, Mar 3, 2019","1:00p","@","Charlotte Hornets","W","",118,108,39,24,"W 1",10,3.6031746031746,31,2
+2019,"POR",64,"Tue, Mar 5, 2019","8:00p","@","Memphis Grizzlies","L","",111,120,39,25,"L 1",-9,3.40625,32,2
+2019,"POR",65,"Thu, Mar 7, 2019","10:30p","","Oklahoma City Thunder","L","OT",121,129,39,26,"L 2",-8,3.23076923076923,32,2
+2019,"POR",66,"Sat, Mar 9, 2019","10:00p","","Phoenix Suns","W","",127,120,40,26,"W 1",7,3.28787878787879,32,2
+2019,"POR",67,"Tue, Mar 12, 2019","10:30p","@","Los Angeles Clippers","W","",125,104,41,26,"W 2",21,3.55223880597015,33,3
+2019,"POR",68,"Fri, Mar 15, 2019","8:00p","@","New Orleans Pelicans","W","",122,110,42,26,"W 3",12,3.67647058823529,34,3
+2019,"POR",69,"Sat, Mar 16, 2019","8:30p","@","San Antonio Spurs","L","",103,108,42,27,"L 1",-5,3.55072463768116,35,1
 2019,"POR",70,"Mon, Mar 18, 2019","10:30p","","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"POR",71,"Wed, Mar 20, 2019","10:00p","","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"POR",72,"Sat, Mar 23, 2019","10:00p","","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,35,3
@@ -13428,13 +13428,13 @@
 2019,"MEM",61,"Sat, Feb 23, 2019","7:00p","@","Cleveland Cavaliers","L","",107,112,23,38,"L 4",-5,-3.26229508196721,31,1
 2019,"MEM",62,"Mon, Feb 25, 2019","8:00p","","Los Angeles Lakers","W","",110,105,24,38,"W 1",5,-3.12903225806452,31,2
 2019,"MEM",63,"Wed, Feb 27, 2019","8:00p","","Chicago Bulls","L","",107,109,24,39,"L 1",-2,-3.11111111111111,31,2
-2019,"MEM",64,"Sat, Mar 2, 2019","8:30p","@","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"MEM",65,"Sun, Mar 3, 2019","7:00p","@","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,33,1
-2019,"MEM",66,"Tue, Mar 5, 2019","8:00p","","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"MEM",67,"Fri, Mar 8, 2019","8:00p","","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"MEM",68,"Sun, Mar 10, 2019","6:00p","","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"MEM",69,"Wed, Mar 13, 2019","7:30p","@","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,34,3
-2019,"MEM",70,"Sat, Mar 16, 2019","7:00p","@","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,35,3
+2019,"MEM",64,"Sat, Mar 2, 2019","8:30p","@","Dallas Mavericks","W","",111,81,25,39,"W 1",30,-2.59375,32,3
+2019,"MEM",65,"Sun, Mar 3, 2019","7:00p","@","Oklahoma City Thunder","L","",95,99,25,40,"L 1",-4,-2.61538461538462,33,1
+2019,"MEM",66,"Tue, Mar 5, 2019","8:00p","","Portland Trail Blazers","W","",120,111,26,40,"W 1",9,-2.43939393939394,33,2
+2019,"MEM",67,"Fri, Mar 8, 2019","8:00p","","Utah Jazz","W","",114,104,27,40,"W 2",10,-2.25373134328358,33,3
+2019,"MEM",68,"Sun, Mar 10, 2019","6:00p","","Orlando Magic","W","",105,97,28,40,"W 3",8,-2.10294117647059,33,2
+2019,"MEM",69,"Wed, Mar 13, 2019","7:30p","@","Atlanta Hawks","L","",111,132,28,41,"L 1",-21,-2.3768115942029,34,3
+2019,"MEM",70,"Sat, Mar 16, 2019","7:00p","@","Washington Wizards","L","",128,135,28,42,"L 2",-7,-2.44285714285714,35,3
 2019,"MEM",71,"Wed, Mar 20, 2019","8:00p","","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,35,4
 2019,"MEM",72,"Fri, Mar 22, 2019","7:00p","@","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,36,2
 2019,"MEM",73,"Sat, Mar 23, 2019","8:00p","","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,36,1
@@ -13509,14 +13509,14 @@
 2019,"IND",60,"Sat, Feb 23, 2019","7:00p","@","Washington Wizards","W","",119,112,40,20,"W 2",7,5.41666666666667,29,1
 2019,"IND",61,"Mon, Feb 25, 2019","7:00p","@","Detroit Pistons","L","",109,113,40,21,"L 1",-4,5.26229508196721,30,2
 2019,"IND",62,"Wed, Feb 27, 2019","8:30p","@","Dallas Mavericks","L","",101,110,40,22,"L 2",-9,5.03225806451613,31,2
-2019,"IND",63,"Thu, Feb 28, 2019","7:00p","","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,31,1
-2019,"IND",64,"Sat, Mar 2, 2019","7:00p","","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"IND",65,"Tue, Mar 5, 2019","7:00p","","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,31,3
-2019,"IND",66,"Thu, Mar 7, 2019","8:00p","@","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"IND",67,"Sun, Mar 10, 2019","3:30p","@","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"IND",68,"Tue, Mar 12, 2019","7:00p","","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"IND",69,"Thu, Mar 14, 2019","7:00p","","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"IND",70,"Sat, Mar 16, 2019","9:00p","@","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,34,2
+2019,"IND",63,"Thu, Feb 28, 2019","7:00p","","Minnesota Timberwolves","W","",122,115,41,22,"W 1",7,5.06349206349206,31,1
+2019,"IND",64,"Sat, Mar 2, 2019","7:00p","","Orlando Magic","L","",112,117,41,23,"L 1",-5,4.90625,31,2
+2019,"IND",65,"Tue, Mar 5, 2019","7:00p","","Chicago Bulls","W","",105,96,42,23,"W 1",9,4.96923076923077,31,3
+2019,"IND",66,"Thu, Mar 7, 2019","8:00p","@","Milwaukee Bucks","L","",98,117,42,24,"L 1",-19,4.60606060606061,32,2
+2019,"IND",67,"Sun, Mar 10, 2019","3:30p","@","Philadelphia 76ers","L","",89,106,42,25,"L 2",-17,4.28358208955224,33,3
+2019,"IND",68,"Tue, Mar 12, 2019","7:00p","","New York Knicks","W","",103,98,43,25,"W 1",5,4.29411764705882,33,2
+2019,"IND",69,"Thu, Mar 14, 2019","7:00p","","Oklahoma City Thunder","W","",108,106,44,25,"W 2",2,4.26086956521739,33,2
+2019,"IND",70,"Sat, Mar 16, 2019","9:00p","@","Denver Nuggets","L","",100,102,44,26,"L 1",-2,4.17142857142857,34,2
 2019,"IND",71,"Mon, Mar 18, 2019","10:30p","@","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"IND",72,"Tue, Mar 19, 2019","10:30p","@","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,36,1
 2019,"IND",73,"Thu, Mar 21, 2019","10:30p","@","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,37,2
@@ -13590,14 +13590,14 @@
 2019,"MIL",59,"Sat, Feb 23, 2019","8:30p","","Minnesota Timberwolves","W","",140,128,45,14,"W 4",12,9.66101694915254,29,2
 2019,"MIL",60,"Mon, Feb 25, 2019","8:00p","@","Chicago Bulls","W","",117,106,46,14,"W 5",11,9.68333333333333,30,2
 2019,"MIL",61,"Wed, Feb 27, 2019","10:00p","@","Sacramento Kings","W","OT",141,140,47,14,"W 6",1,9.54098360655738,31,2
-2019,"MIL",62,"Fri, Mar 1, 2019","10:30p","@","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"MIL",63,"Sat, Mar 2, 2019","9:00p","@","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,33,1
-2019,"MIL",64,"Mon, Mar 4, 2019","9:00p","@","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"MIL",65,"Thu, Mar 7, 2019","8:00p","","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,34,3
-2019,"MIL",66,"Sat, Mar 9, 2019","9:00p","","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"MIL",67,"Sun, Mar 10, 2019","8:00p","@","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,35,1
-2019,"MIL",68,"Tue, Mar 12, 2019","8:00p","@","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,36,2
-2019,"MIL",69,"Fri, Mar 15, 2019","8:00p","@","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,37,3
+2019,"MIL",62,"Fri, Mar 1, 2019","10:30p","@","Los Angeles Lakers","W","",131,120,48,14,"W 7",11,9.56451612903226,32,2
+2019,"MIL",63,"Sat, Mar 2, 2019","9:00p","@","Utah Jazz","L","",111,115,48,15,"L 1",-4,9.34920634920635,33,1
+2019,"MIL",64,"Mon, Mar 4, 2019","9:00p","@","Phoenix Suns","L","",105,114,48,16,"L 2",-9,9.0625,34,2
+2019,"MIL",65,"Thu, Mar 7, 2019","8:00p","","Indiana Pacers","W","",117,98,49,16,"W 1",19,9.21538461538461,34,3
+2019,"MIL",66,"Sat, Mar 9, 2019","9:00p","","Charlotte Hornets","W","",131,114,50,16,"W 2",17,9.33333333333333,34,2
+2019,"MIL",67,"Sun, Mar 10, 2019","8:00p","@","San Antonio Spurs","L","",114,121,50,17,"L 1",-7,9.08955223880597,35,1
+2019,"MIL",68,"Tue, Mar 12, 2019","8:00p","@","New Orleans Pelicans","W","",130,113,51,17,"W 1",17,9.20588235294118,36,2
+2019,"MIL",69,"Fri, Mar 15, 2019","8:00p","@","Miami Heat","W","",113,98,52,17,"W 2",15,9.28985507246377,37,3
 2019,"MIL",70,"Sun, Mar 17, 2019","3:30p","","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"MIL",71,"Tue, Mar 19, 2019","8:00p","","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"MIL",72,"Wed, Mar 20, 2019","7:00p","@","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,38,1
@@ -13672,14 +13672,14 @@
 2019,"HOU",59,"Sat, Feb 23, 2019","8:30p","@","Golden State Warriors","W","",118,112,34,25,"W 1",6,2.03389830508475,30,2
 2019,"HOU",60,"Mon, Feb 25, 2019","8:00p","","Atlanta Hawks","W","",119,111,35,25,"W 2",8,2.13333333333333,30,2
 2019,"HOU",61,"Wed, Feb 27, 2019","7:00p","@","Charlotte Hornets","W","",118,113,36,25,"W 3",5,2.18032786885246,31,2
-2019,"HOU",62,"Thu, Feb 28, 2019","8:00p","","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,31,1
-2019,"HOU",63,"Sun, Mar 3, 2019","3:30p","@","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"HOU",64,"Tue, Mar 5, 2019","8:00p","@","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"HOU",65,"Fri, Mar 8, 2019","8:00p","","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"HOU",66,"Sun, Mar 10, 2019","7:00p","@","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"HOU",67,"Mon, Mar 11, 2019","8:00p","","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,34,1
-2019,"HOU",68,"Wed, Mar 13, 2019","9:30p","","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"HOU",69,"Fri, Mar 15, 2019","8:00p","","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,34,2
+2019,"HOU",62,"Thu, Feb 28, 2019","8:00p","","Miami Heat","W","",121,118,37,25,"W 4",3,2.19354838709677,31,1
+2019,"HOU",63,"Sun, Mar 3, 2019","3:30p","@","Boston Celtics","W","",115,104,38,25,"W 5",11,2.33333333333333,32,3
+2019,"HOU",64,"Tue, Mar 5, 2019","8:00p","@","Toronto Raptors","W","",107,95,39,25,"W 6",12,2.484375,33,2
+2019,"HOU",65,"Fri, Mar 8, 2019","8:00p","","Philadelphia 76ers","W","",107,91,40,25,"W 7",16,2.69230769230769,33,3
+2019,"HOU",66,"Sun, Mar 10, 2019","7:00p","@","Dallas Mavericks","W","",94,93,41,25,"W 8",1,2.66666666666667,34,2
+2019,"HOU",67,"Mon, Mar 11, 2019","8:00p","","Charlotte Hornets","W","",118,106,42,25,"W 9",12,2.80597014925373,34,1
+2019,"HOU",68,"Wed, Mar 13, 2019","9:30p","","Golden State Warriors","L","",104,106,42,26,"L 1",-2,2.73529411764706,34,2
+2019,"HOU",69,"Fri, Mar 15, 2019","8:00p","","Phoenix Suns","W","",108,102,43,26,"W 1",6,2.78260869565217,34,2
 2019,"HOU",70,"Sun, Mar 17, 2019","9:00p","","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,34,2
 2019,"HOU",71,"Tue, Mar 19, 2019","7:30p","@","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"HOU",72,"Wed, Mar 20, 2019","8:00p","@","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,36,1
@@ -13755,13 +13755,13 @@
 2019,"TOR",60,"Fri, Feb 22, 2019","7:00p","","San Antonio Spurs","W","",120,117,44,16,"W 7",3,5.58333333333333,30,9
 2019,"TOR",61,"Sun, Feb 24, 2019","3:30p","","Orlando Magic","L","",98,113,44,17,"L 1",-15,5.24590163934426,30,2
 2019,"TOR",62,"Tue, Feb 26, 2019","8:00p","","Boston Celtics","W","",118,95,45,17,"W 1",23,5.53225806451613,30,2
-2019,"TOR",63,"Fri, Mar 1, 2019","8:00p","","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"TOR",64,"Sun, Mar 3, 2019","6:00p","@","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"TOR",65,"Tue, Mar 5, 2019","8:00p","","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"TOR",66,"Fri, Mar 8, 2019","8:00p","@","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"TOR",67,"Sun, Mar 10, 2019","3:30p","@","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"TOR",68,"Mon, Mar 11, 2019","7:00p","@","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,34,1
-2019,"TOR",69,"Thu, Mar 14, 2019","8:00p","","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,34,3
+2019,"TOR",63,"Fri, Mar 1, 2019","8:00p","","Portland Trail Blazers","W","",119,117,46,17,"W 2",2,5.47619047619048,30,3
+2019,"TOR",64,"Sun, Mar 3, 2019","6:00p","@","Detroit Pistons","L","OT",107,112,46,18,"L 1",-5,5.3125,31,2
+2019,"TOR",65,"Tue, Mar 5, 2019","8:00p","","Houston Rockets","L","",95,107,46,19,"L 2",-12,5.04615384615385,31,2
+2019,"TOR",66,"Fri, Mar 8, 2019","8:00p","@","New Orleans Pelicans","W","",127,104,47,19,"W 1",23,5.31818181818182,32,3
+2019,"TOR",67,"Sun, Mar 10, 2019","3:30p","@","Miami Heat","W","",125,104,48,19,"W 2",21,5.55223880597015,33,2
+2019,"TOR",68,"Mon, Mar 11, 2019","7:00p","@","Cleveland Cavaliers","L","",101,126,48,20,"L 1",-25,5.10294117647059,34,1
+2019,"TOR",69,"Thu, Mar 14, 2019","8:00p","","Los Angeles Lakers","W","",111,98,49,20,"W 1",13,5.21739130434783,34,3
 2019,"TOR",70,"Sun, Mar 17, 2019","4:00p","@","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,35,3
 2019,"TOR",71,"Mon, Mar 18, 2019","7:30p","","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,35,1
 2019,"TOR",72,"Wed, Mar 20, 2019","9:30p","@","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,36,2
@@ -13836,15 +13836,15 @@
 2019,"WAS",59,"Fri, Feb 22, 2019","7:00p","@","Charlotte Hornets","L","",110,123,24,35,"L 3",-13,-3.13559322033898,31,9
 2019,"WAS",60,"Sat, Feb 23, 2019","7:00p","","Indiana Pacers","L","",112,119,24,36,"L 4",-7,-3.2,31,1
 2019,"WAS",61,"Wed, Feb 27, 2019","7:30p","@","Brooklyn Nets","W","",125,116,25,36,"W 1",9,-3,32,4
-2019,"WAS",62,"Fri, Mar 1, 2019","8:00p","@","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"WAS",63,"Sun, Mar 3, 2019","6:00p","","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"WAS",64,"Wed, Mar 6, 2019","7:00p","","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"WAS",65,"Fri, Mar 8, 2019","7:00p","@","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"WAS",66,"Sat, Mar 9, 2019","8:00p","@","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,35,1
-2019,"WAS",67,"Mon, Mar 11, 2019","7:00p","","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,35,2
-2019,"WAS",68,"Wed, Mar 13, 2019","7:00p","","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,35,2
-2019,"WAS",69,"Fri, Mar 15, 2019","7:00p","","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,35,2
-2019,"WAS",70,"Sat, Mar 16, 2019","7:00p","","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,35,1
+2019,"WAS",62,"Fri, Mar 1, 2019","8:00p","@","Boston Celtics","L","",96,107,25,37,"L 1",-11,-3.12903225806452,33,2
+2019,"WAS",63,"Sun, Mar 3, 2019","6:00p","","Minnesota Timberwolves","W","",135,121,26,37,"W 1",14,-2.85714285714286,33,2
+2019,"WAS",64,"Wed, Mar 6, 2019","7:00p","","Dallas Mavericks","W","",132,123,27,37,"W 2",9,-2.671875,33,3
+2019,"WAS",65,"Fri, Mar 8, 2019","7:00p","@","Charlotte Hornets","L","",111,112,27,38,"L 1",-1,-2.64615384615385,34,2
+2019,"WAS",66,"Sat, Mar 9, 2019","8:00p","@","Minnesota Timberwolves","L","OT",130,135,27,39,"L 2",-5,-2.68181818181818,35,1
+2019,"WAS",67,"Mon, Mar 11, 2019","7:00p","","Sacramento Kings","W","",121,115,28,39,"W 1",6,-2.55223880597015,35,2
+2019,"WAS",68,"Wed, Mar 13, 2019","7:00p","","Orlando Magic","W","",100,90,29,39,"W 2",10,-2.36764705882353,35,2
+2019,"WAS",69,"Fri, Mar 15, 2019","7:00p","","Charlotte Hornets","L","",110,116,29,40,"L 1",-6,-2.42028985507246,35,2
+2019,"WAS",70,"Sat, Mar 16, 2019","7:00p","","Memphis Grizzlies","W","",135,128,30,40,"W 1",7,-2.28571428571429,35,1
 2019,"WAS",71,"Mon, Mar 18, 2019","7:00p","","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"WAS",72,"Wed, Mar 20, 2019","8:00p","@","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,36,2
 2019,"WAS",73,"Thu, Mar 21, 2019","7:00p","","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,36,1
@@ -13919,14 +13919,14 @@
 2019,"ORL",60,"Fri, Feb 22, 2019","7:00p","","Chicago Bulls","L","",109,110,27,33,"L 1",-1,-1.05,28,8
 2019,"ORL",61,"Sun, Feb 24, 2019","3:30p","@","Toronto Raptors","W","",113,98,28,33,"W 1",15,-0.786885245901639,29,2
 2019,"ORL",62,"Tue, Feb 26, 2019","7:30p","@","New York Knicks","L","",103,108,28,34,"L 1",-5,-0.854838709677419,30,2
-2019,"ORL",63,"Thu, Feb 28, 2019","7:00p","","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"ORL",64,"Sat, Mar 2, 2019","7:00p","@","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"ORL",65,"Sun, Mar 3, 2019","6:00p","@","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,32,1
-2019,"ORL",66,"Tue, Mar 5, 2019","7:00p","@","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"ORL",67,"Fri, Mar 8, 2019","7:00p","","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"ORL",68,"Sun, Mar 10, 2019","6:00p","@","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"ORL",69,"Wed, Mar 13, 2019","7:00p","@","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,35,3
-2019,"ORL",70,"Thu, Mar 14, 2019","7:00p","","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,35,1
+2019,"ORL",63,"Thu, Feb 28, 2019","7:00p","","Golden State Warriors","W","",103,96,29,34,"W 1",7,-0.73015873015873,30,2
+2019,"ORL",64,"Sat, Mar 2, 2019","7:00p","@","Indiana Pacers","W","",117,112,30,34,"W 2",5,-0.640625,31,2
+2019,"ORL",65,"Sun, Mar 3, 2019","6:00p","@","Cleveland Cavaliers","L","",93,107,30,35,"L 1",-14,-0.846153846153846,32,1
+2019,"ORL",66,"Tue, Mar 5, 2019","7:00p","@","Philadelphia 76ers","L","",106,114,30,36,"L 2",-8,-0.954545454545455,33,2
+2019,"ORL",67,"Fri, Mar 8, 2019","7:00p","","Dallas Mavericks","W","",111,106,31,36,"W 1",5,-0.865671641791045,33,3
+2019,"ORL",68,"Sun, Mar 10, 2019","6:00p","@","Memphis Grizzlies","L","",97,105,31,37,"L 1",-8,-0.970588235294118,34,2
+2019,"ORL",69,"Wed, Mar 13, 2019","7:00p","@","Washington Wizards","L","",90,100,31,38,"L 2",-10,-1.10144927536232,35,3
+2019,"ORL",70,"Thu, Mar 14, 2019","7:00p","","Cleveland Cavaliers","W","",120,91,32,38,"W 1",29,-0.671428571428571,35,1
 2019,"ORL",71,"Sun, Mar 17, 2019","6:00p","","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,35,3
 2019,"ORL",72,"Wed, Mar 20, 2019","7:00p","","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,35,3
 2019,"ORL",73,"Fri, Mar 22, 2019","7:00p","","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,35,2
@@ -14000,13 +14000,13 @@
 2019,"CHO",59,"Sat, Feb 23, 2019","7:00p","","Brooklyn Nets","L","",115,117,28,31,"L 1",-2,-0.305084745762712,29,1
 2019,"CHO",60,"Mon, Feb 25, 2019","7:00p","","Golden State Warriors","L","",110,121,28,32,"L 2",-11,-0.483333333333333,29,2
 2019,"CHO",61,"Wed, Feb 27, 2019","7:00p","","Houston Rockets","L","",113,118,28,33,"L 3",-5,-0.557377049180328,29,2
-2019,"CHO",62,"Fri, Mar 1, 2019","7:30p","@","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"CHO",63,"Sun, Mar 3, 2019","1:00p","","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"CHO",64,"Wed, Mar 6, 2019","7:00p","","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"CHO",65,"Fri, Mar 8, 2019","7:00p","","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"CHO",66,"Sat, Mar 9, 2019","9:00p","@","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,31,1
-2019,"CHO",67,"Mon, Mar 11, 2019","8:00p","@","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"CHO",68,"Fri, Mar 15, 2019","7:00p","@","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,33,4
+2019,"CHO",62,"Fri, Mar 1, 2019","7:30p","@","Brooklyn Nets","W","",123,112,29,33,"W 1",11,-0.370967741935484,30,2
+2019,"CHO",63,"Sun, Mar 3, 2019","1:00p","","Portland Trail Blazers","L","",108,118,29,34,"L 1",-10,-0.523809523809524,30,2
+2019,"CHO",64,"Wed, Mar 6, 2019","7:00p","","Miami Heat","L","",84,91,29,35,"L 2",-7,-0.625,30,3
+2019,"CHO",65,"Fri, Mar 8, 2019","7:00p","","Washington Wizards","W","",112,111,30,35,"W 1",1,-0.6,30,2
+2019,"CHO",66,"Sat, Mar 9, 2019","9:00p","@","Milwaukee Bucks","L","",114,131,30,36,"L 1",-17,-0.848484848484849,31,1
+2019,"CHO",67,"Mon, Mar 11, 2019","8:00p","@","Houston Rockets","L","",106,118,30,37,"L 2",-12,-1.01492537313433,32,2
+2019,"CHO",68,"Fri, Mar 15, 2019","7:00p","@","Washington Wizards","W","",116,110,31,37,"W 1",6,-0.911764705882353,33,4
 2019,"CHO",69,"Sun, Mar 17, 2019","1:00p","@","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,34,2
 2019,"CHO",70,"Tue, Mar 19, 2019","7:00p","","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,34,2
 2019,"CHO",71,"Thu, Mar 21, 2019","7:00p","","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,34,2
@@ -14082,13 +14082,13 @@
 2019,"SAC",59,"Sat, Feb 23, 2019","8:00p","@","Oklahoma City Thunder","W","",119,116,31,28,"W 1",3,-1.16949152542373,29,2
 2019,"SAC",60,"Mon, Feb 25, 2019","8:00p","@","Minnesota Timberwolves","L","",105,112,31,29,"L 1",-7,-1.26666666666667,30,2
 2019,"SAC",61,"Wed, Feb 27, 2019","10:00p","","Milwaukee Bucks","L","OT",140,141,31,30,"L 2",-1,-1.26229508196721,30,2
-2019,"SAC",62,"Fri, Mar 1, 2019","10:00p","","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"SAC",63,"Mon, Mar 4, 2019","10:00p","","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"SAC",64,"Wed, Mar 6, 2019","10:00p","","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"SAC",65,"Sat, Mar 9, 2019","12:00p","@","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,31,3
-2019,"SAC",66,"Mon, Mar 11, 2019","7:00p","@","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"SAC",67,"Thu, Mar 14, 2019","7:30p","@","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"SAC",68,"Fri, Mar 15, 2019","7:00p","@","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,34,1
+2019,"SAC",62,"Fri, Mar 1, 2019","10:00p","","Los Angeles Clippers","L","",109,116,31,31,"L 3",-7,-1.35483870967742,30,2
+2019,"SAC",63,"Mon, Mar 4, 2019","10:00p","","New York Knicks","W","",115,108,32,31,"W 1",7,-1.22222222222222,30,3
+2019,"SAC",64,"Wed, Mar 6, 2019","10:00p","","Boston Celtics","L","",109,111,32,32,"L 1",-2,-1.234375,30,2
+2019,"SAC",65,"Sat, Mar 9, 2019","12:00p","@","New York Knicks","W","",102,94,33,32,"W 1",8,-1.09230769230769,31,3
+2019,"SAC",66,"Mon, Mar 11, 2019","7:00p","@","Washington Wizards","L","",115,121,33,33,"L 1",-6,-1.16666666666667,32,2
+2019,"SAC",67,"Thu, Mar 14, 2019","7:30p","@","Boston Celtics","L","",120,126,33,34,"L 2",-6,-1.23880597014925,33,3
+2019,"SAC",68,"Fri, Mar 15, 2019","7:00p","@","Philadelphia 76ers","L","",114,123,33,35,"L 3",-9,-1.35294117647059,34,1
 2019,"SAC",69,"Sun, Mar 17, 2019","6:00p","","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,34,2
 2019,"SAC",70,"Tue, Mar 19, 2019","10:00p","","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,34,2
 2019,"SAC",71,"Thu, Mar 21, 2019","10:00p","","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,34,2
@@ -14164,14 +14164,14 @@
 2019,"LAL",59,"Sat, Feb 23, 2019","7:00p","@","New Orleans Pelicans","L","",115,128,29,30,"L 1",-13,-1.28813559322034,30,2
 2019,"LAL",60,"Mon, Feb 25, 2019","8:00p","@","Memphis Grizzlies","L","",105,110,29,31,"L 2",-5,-1.35,31,2
 2019,"LAL",61,"Wed, Feb 27, 2019","10:30p","","New Orleans Pelicans","W","",125,119,30,31,"W 1",6,-1.22950819672131,31,2
-2019,"LAL",62,"Fri, Mar 1, 2019","10:30p","","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"LAL",63,"Sat, Mar 2, 2019","9:00p","@","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,32,1
-2019,"LAL",64,"Mon, Mar 4, 2019","10:30p","","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"LAL",65,"Wed, Mar 6, 2019","10:30p","","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"LAL",66,"Sat, Mar 9, 2019","8:30p","","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"LAL",67,"Tue, Mar 12, 2019","8:00p","@","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"LAL",68,"Thu, Mar 14, 2019","8:00p","@","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"LAL",69,"Fri, Mar 15, 2019","7:00p","@","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,35,1
+2019,"LAL",62,"Fri, Mar 1, 2019","10:30p","","Milwaukee Bucks","L","",120,131,30,32,"L 1",-11,-1.38709677419355,31,2
+2019,"LAL",63,"Sat, Mar 2, 2019","9:00p","@","Phoenix Suns","L","",109,118,30,33,"L 2",-9,-1.50793650793651,32,1
+2019,"LAL",64,"Mon, Mar 4, 2019","10:30p","","Los Angeles Clippers","L","",105,113,30,34,"L 3",-8,-1.609375,32,2
+2019,"LAL",65,"Wed, Mar 6, 2019","10:30p","","Denver Nuggets","L","",99,115,30,35,"L 4",-16,-1.83076923076923,32,2
+2019,"LAL",66,"Sat, Mar 9, 2019","8:30p","","Boston Celtics","L","",107,120,30,36,"L 5",-13,-2,32,3
+2019,"LAL",67,"Tue, Mar 12, 2019","8:00p","@","Chicago Bulls","W","",123,107,31,36,"W 1",16,-1.73134328358209,33,3
+2019,"LAL",68,"Thu, Mar 14, 2019","8:00p","@","Toronto Raptors","L","",98,111,31,37,"L 1",-13,-1.89705882352941,34,2
+2019,"LAL",69,"Fri, Mar 15, 2019","7:00p","@","Detroit Pistons","L","",97,111,31,38,"L 2",-14,-2.07246376811594,35,1
 2019,"LAL",70,"Sun, Mar 17, 2019","12:00p","@","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,36,2
 2019,"LAL",71,"Tue, Mar 19, 2019","8:00p","@","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"LAL",72,"Fri, Mar 22, 2019","10:30p","","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,37,3
@@ -14246,14 +14246,14 @@
 2019,"DAL",59,"Sat, Feb 23, 2019","10:00p","@","Utah Jazz","L","",109,125,26,33,"L 4",-16,-0.474576271186441,29,1
 2019,"DAL",60,"Mon, Feb 25, 2019","10:30p","@","Los Angeles Clippers","L","",112,121,26,34,"L 5",-9,-0.616666666666667,30,2
 2019,"DAL",61,"Wed, Feb 27, 2019","8:30p","","Indiana Pacers","W","",110,101,27,34,"W 1",9,-0.459016393442623,30,2
-2019,"DAL",62,"Sat, Mar 2, 2019","8:30p","","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"DAL",63,"Mon, Mar 4, 2019","7:30p","@","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"DAL",64,"Wed, Mar 6, 2019","7:00p","@","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"DAL",65,"Fri, Mar 8, 2019","7:00p","@","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"DAL",66,"Sun, Mar 10, 2019","7:00p","","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"DAL",67,"Tue, Mar 12, 2019","8:00p","","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"DAL",68,"Thu, Mar 14, 2019","10:30p","@","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"DAL",69,"Sat, Mar 16, 2019","8:30p","","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,34,2
+2019,"DAL",62,"Sat, Mar 2, 2019","8:30p","","Memphis Grizzlies","L","",81,111,27,35,"L 1",-30,-0.935483870967742,30,3
+2019,"DAL",63,"Mon, Mar 4, 2019","7:30p","@","Brooklyn Nets","L","",88,127,27,36,"L 2",-39,-1.53968253968254,31,2
+2019,"DAL",64,"Wed, Mar 6, 2019","7:00p","@","Washington Wizards","L","",123,132,27,37,"L 3",-9,-1.65625,32,2
+2019,"DAL",65,"Fri, Mar 8, 2019","7:00p","@","Orlando Magic","L","",106,111,27,38,"L 4",-5,-1.70769230769231,33,2
+2019,"DAL",66,"Sun, Mar 10, 2019","7:00p","","Houston Rockets","L","",93,94,27,39,"L 5",-1,-1.6969696969697,33,2
+2019,"DAL",67,"Tue, Mar 12, 2019","8:00p","","San Antonio Spurs","L","",105,112,27,40,"L 6",-7,-1.77611940298507,33,2
+2019,"DAL",68,"Thu, Mar 14, 2019","10:30p","@","Denver Nuggets","L","",99,100,27,41,"L 7",-1,-1.76470588235294,34,2
+2019,"DAL",69,"Sat, Mar 16, 2019","8:30p","","Cleveland Cavaliers","W","",121,116,28,41,"W 1",5,-1.66666666666667,34,2
 2019,"DAL",70,"Mon, Mar 18, 2019","8:30p","","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,34,2
 2019,"DAL",71,"Wed, Mar 20, 2019","10:00p","@","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"DAL",72,"Thu, Mar 21, 2019","10:00p","@","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,36,1
@@ -14328,14 +14328,14 @@
 2019,"MIN",59,"Sat, Feb 23, 2019","8:30p","@","Milwaukee Bucks","L","",128,140,28,31,"L 1",-12,0.152542372881356,30,1
 2019,"MIN",60,"Mon, Feb 25, 2019","8:00p","","Sacramento Kings","W","",112,105,29,31,"W 1",7,0.266666666666667,30,2
 2019,"MIN",61,"Wed, Feb 27, 2019","7:30p","@","Atlanta Hawks","L","OT",123,131,29,32,"L 1",-8,0.131147540983607,31,2
-2019,"MIN",62,"Thu, Feb 28, 2019","7:00p","@","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,32,1
-2019,"MIN",63,"Sun, Mar 3, 2019","6:00p","@","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"MIN",64,"Tue, Mar 5, 2019","8:00p","","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"MIN",65,"Wed, Mar 6, 2019","7:00p","@","Detroit Pistons","","",NA,NA,NA,NA,"",NA,NA,34,1
-2019,"MIN",66,"Sat, Mar 9, 2019","8:00p","","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,34,3
-2019,"MIN",67,"Sun, Mar 10, 2019","8:00p","","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,34,1
-2019,"MIN",68,"Tue, Mar 12, 2019","10:30p","@","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,35,2
-2019,"MIN",69,"Thu, Mar 14, 2019","9:00p","@","Utah Jazz","","",NA,NA,NA,NA,"",NA,NA,36,2
+2019,"MIN",62,"Thu, Feb 28, 2019","7:00p","@","Indiana Pacers","L","",115,122,29,33,"L 2",-7,0.0161290322580645,32,1
+2019,"MIN",63,"Sun, Mar 3, 2019","6:00p","@","Washington Wizards","L","",121,135,29,34,"L 3",-14,-0.206349206349206,33,3
+2019,"MIN",64,"Tue, Mar 5, 2019","8:00p","","Oklahoma City Thunder","W","",131,120,30,34,"W 1",11,-0.03125,33,2
+2019,"MIN",65,"Wed, Mar 6, 2019","7:00p","@","Detroit Pistons","L","",114,131,30,35,"L 1",-17,-0.292307692307692,34,1
+2019,"MIN",66,"Sat, Mar 9, 2019","8:00p","","Washington Wizards","W","OT",135,130,31,35,"W 1",5,-0.212121212121212,34,3
+2019,"MIN",67,"Sun, Mar 10, 2019","8:00p","","New York Knicks","W","",103,92,32,35,"W 2",11,-0.0447761194029851,34,1
+2019,"MIN",68,"Tue, Mar 12, 2019","10:30p","@","Denver Nuggets","L","",107,133,32,36,"L 1",-26,-0.426470588235294,35,2
+2019,"MIN",69,"Thu, Mar 14, 2019","9:00p","@","Utah Jazz","L","",100,120,32,37,"L 2",-20,-0.710144927536232,36,2
 2019,"MIN",70,"Sun, Mar 17, 2019","9:00p","@","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,37,3
 2019,"MIN",71,"Tue, Mar 19, 2019","8:00p","","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,37,2
 2019,"MIN",72,"Thu, Mar 21, 2019","7:00p","@","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,38,2
@@ -14411,14 +14411,14 @@
 2019,"BOS",60,"Sat, Feb 23, 2019","8:00p","@","Chicago Bulls","L","",116,126,37,23,"L 2",-10,6.01666666666667,29,2
 2019,"BOS",61,"Tue, Feb 26, 2019","8:00p","@","Toronto Raptors","L","",95,118,37,24,"L 3",-23,5.54098360655738,30,3
 2019,"BOS",62,"Wed, Feb 27, 2019","8:00p","","Portland Trail Blazers","L","",92,97,37,25,"L 4",-5,5.37096774193548,30,1
-2019,"BOS",63,"Fri, Mar 1, 2019","8:00p","","Washington Wizards","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"BOS",64,"Sun, Mar 3, 2019","3:30p","","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"BOS",65,"Tue, Mar 5, 2019","10:30p","@","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"BOS",66,"Wed, Mar 6, 2019","10:00p","@","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,32,1
-2019,"BOS",67,"Sat, Mar 9, 2019","8:30p","@","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"BOS",68,"Mon, Mar 11, 2019","10:30p","@","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,34,2
-2019,"BOS",69,"Thu, Mar 14, 2019","7:30p","","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,34,3
-2019,"BOS",70,"Sat, Mar 16, 2019","12:30p","","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,34,2
+2019,"BOS",63,"Fri, Mar 1, 2019","8:00p","","Washington Wizards","W","",107,96,38,25,"W 1",11,5.46031746031746,30,2
+2019,"BOS",64,"Sun, Mar 3, 2019","3:30p","","Houston Rockets","L","",104,115,38,26,"L 1",-11,5.203125,30,2
+2019,"BOS",65,"Tue, Mar 5, 2019","10:30p","@","Golden State Warriors","W","",128,95,39,26,"W 1",33,5.63076923076923,31,2
+2019,"BOS",66,"Wed, Mar 6, 2019","10:00p","@","Sacramento Kings","W","",111,109,40,26,"W 2",2,5.57575757575758,32,1
+2019,"BOS",67,"Sat, Mar 9, 2019","8:30p","@","Los Angeles Lakers","W","",120,107,41,26,"W 3",13,5.6865671641791,33,3
+2019,"BOS",68,"Mon, Mar 11, 2019","10:30p","@","Los Angeles Clippers","L","",115,140,41,27,"L 1",-25,5.23529411764706,34,2
+2019,"BOS",69,"Thu, Mar 14, 2019","7:30p","","Sacramento Kings","W","",126,120,42,27,"W 1",6,5.2463768115942,34,3
+2019,"BOS",70,"Sat, Mar 16, 2019","12:30p","","Atlanta Hawks","W","",129,120,43,27,"W 2",9,5.3,34,2
 2019,"BOS",71,"Mon, Mar 18, 2019","7:30p","","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,34,2
 2019,"BOS",72,"Wed, Mar 20, 2019","7:00p","@","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"BOS",73,"Sat, Mar 23, 2019","6:00p","@","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,36,3
@@ -14492,13 +14492,13 @@
 2019,"GSW",59,"Sat, Feb 23, 2019","8:30p","","Houston Rockets","L","",112,118,42,17,"L 1",-6,6.79661016949153,28,2
 2019,"GSW",60,"Mon, Feb 25, 2019","7:00p","@","Charlotte Hornets","W","",121,110,43,17,"W 1",11,6.86666666666667,29,2
 2019,"GSW",61,"Wed, Feb 27, 2019","7:30p","@","Miami Heat","L","",125,126,43,18,"L 1",-1,6.73770491803279,30,2
-2019,"GSW",62,"Thu, Feb 28, 2019","7:00p","@","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,31,1
-2019,"GSW",63,"Sat, Mar 2, 2019","8:30p","@","Philadelphia 76ers","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"GSW",64,"Tue, Mar 5, 2019","10:30p","","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"GSW",65,"Fri, Mar 8, 2019","10:30p","","Denver Nuggets","","",NA,NA,NA,NA,"",NA,NA,32,3
-2019,"GSW",66,"Sun, Mar 10, 2019","8:30p","","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"GSW",67,"Wed, Mar 13, 2019","9:30p","@","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,33,3
-2019,"GSW",68,"Sat, Mar 16, 2019","8:30p","@","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,34,3
+2019,"GSW",62,"Thu, Feb 28, 2019","7:00p","@","Orlando Magic","L","",96,103,43,19,"L 2",-7,6.51612903225806,31,1
+2019,"GSW",63,"Sat, Mar 2, 2019","8:30p","@","Philadelphia 76ers","W","",120,117,44,19,"W 1",3,6.46031746031746,32,2
+2019,"GSW",64,"Tue, Mar 5, 2019","10:30p","","Boston Celtics","L","",95,128,44,20,"L 1",-33,5.84375,32,3
+2019,"GSW",65,"Fri, Mar 8, 2019","10:30p","","Denver Nuggets","W","",122,105,45,20,"W 1",17,6.01538461538462,32,3
+2019,"GSW",66,"Sun, Mar 10, 2019","8:30p","","Phoenix Suns","L","",111,115,45,21,"L 1",-4,5.86363636363636,32,2
+2019,"GSW",67,"Wed, Mar 13, 2019","9:30p","@","Houston Rockets","W","",106,104,46,21,"W 1",2,5.80597014925373,33,3
+2019,"GSW",68,"Sat, Mar 16, 2019","8:30p","@","Oklahoma City Thunder","W","",110,88,47,21,"W 2",22,6.04411764705882,34,3
 2019,"GSW",69,"Mon, Mar 18, 2019","8:00p","@","San Antonio Spurs","","",NA,NA,NA,NA,"",NA,NA,35,2
 2019,"GSW",70,"Tue, Mar 19, 2019","8:00p","@","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,36,1
 2019,"GSW",71,"Thu, Mar 21, 2019","10:30p","","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,36,2
@@ -14513,6 +14513,88 @@
 2019,"GSW",80,"Sun, Apr 7, 2019","8:30p","","Los Angeles Clippers","","",NA,NA,NA,NA,"",NA,NA,39,2
 2019,"GSW",81,"Tue, Apr 9, 2019","8:00p","@","New Orleans Pelicans","","",NA,NA,NA,NA,"",NA,NA,40,2
 2019,"GSW",82,"Wed, Apr 10, 2019","8:00p","@","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,41,1
+2019,"NOP",1,"Wed, Oct 17, 2018","8:00p","@","Houston Rockets","W","",131,112,1,0,"W 1",19,19,1,NA
+2019,"NOP",2,"Fri, Oct 19, 2018","8:00p","","Sacramento Kings","W","",149,129,2,0,"W 2",20,19.5,1,2
+2019,"NOP",3,"Tue, Oct 23, 2018","8:00p","","Los Angeles Clippers","W","",116,109,3,0,"W 3",7,15.3333333333333,1,4
+2019,"NOP",4,"Fri, Oct 26, 2018","8:00p","","Brooklyn Nets","W","",117,115,4,0,"W 4",2,12,1,3
+2019,"NOP",5,"Sat, Oct 27, 2018","7:00p","","Utah Jazz","L","",111,132,4,1,"L 1",-21,5.4,1,1
+2019,"NOP",6,"Mon, Oct 29, 2018","9:00p","@","Denver Nuggets","L","",111,116,4,2,"L 2",-5,3.66666666666667,2,2
+2019,"NOP",7,"Wed, Oct 31, 2018","10:30p","@","Golden State Warriors","L","",121,131,4,3,"L 3",-10,1.71428571428571,3,2
+2019,"NOP",8,"Thu, Nov 1, 2018","10:30p","@","Portland Trail Blazers","L","",119,132,4,4,"L 4",-13,-0.125,4,1
+2019,"NOP",9,"Sat, Nov 3, 2018","8:30p","@","San Antonio Spurs","L","",95,109,4,5,"L 5",-14,-1.66666666666667,5,2
+2019,"NOP",10,"Mon, Nov 5, 2018","8:00p","@","Oklahoma City Thunder","L","",116,122,4,6,"L 6",-6,-2.1,6,2
+2019,"NOP",11,"Wed, Nov 7, 2018","8:00p","","Chicago Bulls","W","",107,98,5,6,"W 1",9,-1.09090909090909,6,2
+2019,"NOP",12,"Sat, Nov 10, 2018","7:00p","","Phoenix Suns","W","",119,99,6,6,"W 2",20,0.666666666666667,6,3
+2019,"NOP",13,"Mon, Nov 12, 2018","7:30p","@","Toronto Raptors","W","",126,110,7,6,"W 3",16,1.84615384615385,7,2
+2019,"NOP",14,"Wed, Nov 14, 2018","8:00p","@","Minnesota Timberwolves","L","",100,107,7,7,"L 1",-7,1.21428571428571,8,2
+2019,"NOP",15,"Fri, Nov 16, 2018","8:00p","","New York Knicks","W","",129,124,8,7,"W 1",5,1.46666666666667,8,2
+2019,"NOP",16,"Sat, Nov 17, 2018","7:00p","","Denver Nuggets","W","",125,115,9,7,"W 2",10,2,8,1
+2019,"NOP",17,"Mon, Nov 19, 2018","8:00p","","San Antonio Spurs","W","",140,126,10,7,"W 3",14,2.70588235294118,8,2
+2019,"NOP",18,"Wed, Nov 21, 2018","7:00p","@","Philadelphia 76ers","L","",120,121,10,8,"L 1",-1,2.5,9,2
+2019,"NOP",19,"Fri, Nov 23, 2018","7:30p","@","New York Knicks","L","",109,114,10,9,"L 2",-5,2.10526315789474,10,2
+2019,"NOP",20,"Sat, Nov 24, 2018","8:00p","@","Washington Wizards","L","",114,124,10,10,"L 3",-10,1.5,11,1
+2019,"NOP",21,"Mon, Nov 26, 2018","8:00p","","Boston Celtics","L","",107,124,10,11,"L 4",-17,0.619047619047619,11,2
+2019,"NOP",22,"Wed, Nov 28, 2018","8:00p","","Washington Wizards","W","",125,104,11,11,"W 1",21,1.54545454545455,11,2
+2019,"NOP",23,"Fri, Nov 30, 2018","8:00p","@","Miami Heat","L","",101,106,11,12,"L 1",-5,1.26086956521739,12,2
+2019,"NOP",24,"Sun, Dec 2, 2018","5:00p","@","Charlotte Hornets","W","",119,109,12,12,"W 1",10,1.625,13,2
+2019,"NOP",25,"Mon, Dec 3, 2018","8:00p","","Los Angeles Clippers","L","",126,129,12,13,"L 1",-3,1.44,13,1
+2019,"NOP",26,"Wed, Dec 5, 2018","8:00p","","Dallas Mavericks","W","",132,106,13,13,"W 1",26,2.38461538461538,13,2
+2019,"NOP",27,"Fri, Dec 7, 2018","8:00p","","Memphis Grizzlies","L","",103,107,13,14,"L 1",-4,2.14814814814815,13,2
+2019,"NOP",28,"Sun, Dec 9, 2018","3:30p","@","Detroit Pistons","W","",116,108,14,14,"W 1",8,2.35714285714286,14,2
+2019,"NOP",29,"Mon, Dec 10, 2018","7:30p","@","Boston Celtics","L","",100,113,14,15,"L 1",-13,1.82758620689655,15,1
+2019,"NOP",30,"Wed, Dec 12, 2018","8:00p","","Oklahoma City Thunder","W","",118,114,15,15,"W 1",4,1.9,15,2
+2019,"NOP",31,"Sun, Dec 16, 2018","7:00p","","Miami Heat","L","",96,102,15,16,"L 1",-6,1.64516129032258,15,4
+2019,"NOP",32,"Wed, Dec 19, 2018","8:00p","@","Milwaukee Bucks","L","",115,123,15,17,"L 2",-8,1.34375,16,3
+2019,"NOP",33,"Fri, Dec 21, 2018","10:30p","@","Los Angeles Lakers","L","",104,112,15,18,"L 3",-8,1.06060606060606,17,2
+2019,"NOP",34,"Sun, Dec 23, 2018","6:00p","@","Sacramento Kings","L","",117,122,15,19,"L 4",-5,0.882352941176471,18,2
+2019,"NOP",35,"Wed, Dec 26, 2018","8:30p","@","Dallas Mavericks","L","",119,122,15,20,"L 5",-3,0.771428571428571,19,3
+2019,"NOP",36,"Fri, Dec 28, 2018","8:00p","","Dallas Mavericks","W","",114,112,16,20,"W 1",2,0.805555555555556,19,2
+2019,"NOP",37,"Sat, Dec 29, 2018","7:00p","","Houston Rockets","L","",104,108,16,21,"L 1",-4,0.675675675675676,19,1
+2019,"NOP",38,"Mon, Dec 31, 2018","8:00p","","Minnesota Timberwolves","W","",123,114,17,21,"W 1",9,0.894736842105263,19,2
+2019,"NOP",39,"Wed, Jan 2, 2019","7:30p","@","Brooklyn Nets","L","",121,126,17,22,"L 1",-5,0.743589743589744,20,2
+2019,"NOP",40,"Sat, Jan 5, 2019","8:00p","@","Cleveland Cavaliers","W","",133,98,18,22,"W 1",35,1.6,21,3
+2019,"NOP",41,"Mon, Jan 7, 2019","8:00p","","Memphis Grizzlies","W","",114,95,19,22,"W 2",19,2.02439024390244,21,2
+2019,"NOP",42,"Wed, Jan 9, 2019","8:00p","","Cleveland Cavaliers","W","",140,124,20,22,"W 3",16,2.35714285714286,21,2
+2019,"NOP",43,"Sat, Jan 12, 2019","8:00p","@","Minnesota Timberwolves","L","",106,110,20,23,"L 1",-4,2.2093023255814,22,3
+2019,"NOP",44,"Mon, Jan 14, 2019","10:30p","@","Los Angeles Clippers","W","",121,117,21,23,"W 1",4,2.25,23,2
+2019,"NOP",45,"Wed, Jan 16, 2019","10:30p","@","Golden State Warriors","L","",140,147,21,24,"L 1",-7,2.04444444444444,24,2
+2019,"NOP",46,"Fri, Jan 18, 2019","10:30p","@","Portland Trail Blazers","L","",112,128,21,25,"L 2",-16,1.65217391304348,25,2
+2019,"NOP",47,"Mon, Jan 21, 2019","5:30p","@","Memphis Grizzlies","W","",105,85,22,25,"W 1",20,2.04255319148936,26,3
+2019,"NOP",48,"Wed, Jan 23, 2019","8:00p","","Detroit Pistons","L","",94,98,22,26,"L 1",-4,1.91666666666667,26,2
+2019,"NOP",49,"Thu, Jan 24, 2019","8:00p","@","Oklahoma City Thunder","L","",116,122,22,27,"L 2",-6,1.75510204081633,27,1
+2019,"NOP",50,"Sat, Jan 26, 2019","6:00p","","San Antonio Spurs","L","",114,126,22,28,"L 3",-12,1.48,27,2
+2019,"NOP",51,"Tue, Jan 29, 2019","8:00p","@","Houston Rockets","W","",121,116,23,28,"W 1",5,1.54901960784314,28,3
+2019,"NOP",52,"Wed, Jan 30, 2019","8:00p","","Denver Nuggets","L","",99,105,23,29,"L 1",-6,1.40384615384615,28,1
+2019,"NOP",53,"Sat, Feb 2, 2019","8:30p","@","San Antonio Spurs","L","",108,113,23,30,"L 2",-5,1.28301886792453,29,3
+2019,"NOP",54,"Mon, Feb 4, 2019","8:00p","","Indiana Pacers","L","",107,109,23,31,"L 3",-2,1.22222222222222,29,2
+2019,"NOP",55,"Wed, Feb 6, 2019","8:00p","@","Chicago Bulls","W","",125,120,24,31,"W 1",5,1.29090909090909,30,2
+2019,"NOP",56,"Fri, Feb 8, 2019","9:30p","","Minnesota Timberwolves","W","",122,117,25,31,"W 2",5,1.35714285714286,30,2
+2019,"NOP",57,"Sat, Feb 9, 2019","8:00p","@","Memphis Grizzlies","L","",90,99,25,32,"L 1",-9,1.17543859649123,31,1
+2019,"NOP",58,"Tue, Feb 12, 2019","8:00p","","Orlando Magic","L","",88,118,25,33,"L 2",-30,0.637931034482759,31,3
+2019,"NOP",59,"Thu, Feb 14, 2019","8:00p","","Oklahoma City Thunder","W","",131,122,26,33,"W 1",9,0.779661016949153,31,2
+2019,"NOP",60,"Fri, Feb 22, 2019","7:00p","@","Indiana Pacers","L","",111,126,26,34,"L 1",-15,0.516666666666667,32,8
+2019,"NOP",61,"Sat, Feb 23, 2019","7:00p","","Los Angeles Lakers","W","",128,115,27,34,"W 1",13,0.721311475409836,32,1
+2019,"NOP",62,"Mon, Feb 25, 2019","8:00p","","Philadelphia 76ers","L","",110,111,27,35,"L 1",-1,0.693548387096774,32,2
+2019,"NOP",63,"Wed, Feb 27, 2019","10:30p","@","Los Angeles Lakers","L","",119,125,27,36,"L 2",-6,0.587301587301587,33,2
+2019,"NOP",64,"Fri, Mar 1, 2019","9:00p","@","Phoenix Suns","W","",130,116,28,36,"W 1",14,0.796875,34,2
+2019,"NOP",65,"Sat, Mar 2, 2019","9:00p","@","Denver Nuggets","W","",120,112,29,36,"W 2",8,0.907692307692308,35,1
+2019,"NOP",66,"Mon, Mar 4, 2019","9:00p","@","Utah Jazz","W","",115,112,30,36,"W 3",3,0.939393939393939,36,2
+2019,"NOP",67,"Wed, Mar 6, 2019","8:00p","","Utah Jazz","L","",104,114,30,37,"L 1",-10,0.776119402985075,36,2
+2019,"NOP",68,"Fri, Mar 8, 2019","8:00p","","Toronto Raptors","L","",104,127,30,38,"L 2",-23,0.426470588235294,36,2
+2019,"NOP",69,"Sun, Mar 10, 2019","6:00p","@","Atlanta Hawks","L","",116,128,30,39,"L 3",-12,0.246376811594203,37,2
+2019,"NOP",70,"Tue, Mar 12, 2019","8:00p","","Milwaukee Bucks","L","",113,130,30,40,"L 4",-17,0,37,2
+2019,"NOP",71,"Fri, Mar 15, 2019","8:00p","","Portland Trail Blazers","L","",110,122,30,41,"L 5",-12,-0.169014084507042,37,3
+2019,"NOP",72,"Sat, Mar 16, 2019","7:00p","","Phoenix Suns","L","OT",136,138,30,42,"L 6",-2,-0.194444444444444,37,1
+2019,"NOP",73,"Mon, Mar 18, 2019","8:30p","@","Dallas Mavericks","","",NA,NA,NA,NA,"",NA,NA,38,2
+2019,"NOP",74,"Wed, Mar 20, 2019","7:00p","@","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,39,2
+2019,"NOP",75,"Sun, Mar 24, 2019","7:00p","","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,39,4
+2019,"NOP",76,"Tue, Mar 26, 2019","8:00p","","Atlanta Hawks","","",NA,NA,NA,NA,"",NA,NA,39,2
+2019,"NOP",77,"Thu, Mar 28, 2019","8:00p","","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,39,2
+2019,"NOP",78,"Sun, Mar 31, 2019","6:00p","","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,39,3
+2019,"NOP",79,"Wed, Apr 3, 2019","8:00p","","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,39,3
+2019,"NOP",80,"Fri, Apr 5, 2019","10:00p","@","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,40,2
+2019,"NOP",81,"Sun, Apr 7, 2019","9:00p","@","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,41,2
+2019,"NOP",82,"Tue, Apr 9, 2019","8:00p","","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,41,2
 2019,"LAC",1,"Wed, Oct 17, 2018","10:30p","","Denver Nuggets","L","",98,107,0,1,"L 1",-9,-9,0,NA
 2019,"LAC",2,"Fri, Oct 19, 2018","10:30p","","Oklahoma City Thunder","W","",108,92,1,1,"W 1",16,3.5,0,2
 2019,"LAC",3,"Sun, Oct 21, 2018","9:00p","","Houston Rockets","W","",115,112,2,1,"W 2",3,3.33333333333333,0,2
@@ -14576,13 +14658,13 @@
 2019,"LAC",61,"Sun, Feb 24, 2019","5:00p","@","Denver Nuggets","L","",96,123,33,28,"L 1",-27,0.0983606557377049,33,2
 2019,"LAC",62,"Mon, Feb 25, 2019","10:30p","","Dallas Mavericks","W","",121,112,34,28,"W 1",9,0.241935483870968,33,1
 2019,"LAC",63,"Wed, Feb 27, 2019","9:00p","@","Utah Jazz","L","",105,111,34,29,"L 1",-6,0.142857142857143,34,2
-2019,"LAC",64,"Fri, Mar 1, 2019","10:00p","@","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,35,2
-2019,"LAC",65,"Sun, Mar 3, 2019","3:30p","","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,35,2
-2019,"LAC",66,"Mon, Mar 4, 2019","10:30p","@","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,36,1
-2019,"LAC",67,"Fri, Mar 8, 2019","10:30p","","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,36,4
-2019,"LAC",68,"Mon, Mar 11, 2019","10:30p","","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,36,3
-2019,"LAC",69,"Tue, Mar 12, 2019","10:30p","","Portland Trail Blazers","","",NA,NA,NA,NA,"",NA,NA,36,1
-2019,"LAC",70,"Fri, Mar 15, 2019","10:30p","","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,36,3
+2019,"LAC",64,"Fri, Mar 1, 2019","10:00p","@","Sacramento Kings","W","",116,109,35,29,"W 1",7,0.25,35,2
+2019,"LAC",65,"Sun, Mar 3, 2019","3:30p","","New York Knicks","W","",128,107,36,29,"W 2",21,0.569230769230769,35,2
+2019,"LAC",66,"Mon, Mar 4, 2019","10:30p","@","Los Angeles Lakers","W","",113,105,37,29,"W 3",8,0.681818181818182,36,1
+2019,"LAC",67,"Fri, Mar 8, 2019","10:30p","","Oklahoma City Thunder","W","",118,110,38,29,"W 4",8,0.791044776119403,36,4
+2019,"LAC",68,"Mon, Mar 11, 2019","10:30p","","Boston Celtics","W","",140,115,39,29,"W 5",25,1.14705882352941,36,3
+2019,"LAC",69,"Tue, Mar 12, 2019","10:30p","","Portland Trail Blazers","L","",104,125,39,30,"L 1",-21,0.826086956521739,36,1
+2019,"LAC",70,"Fri, Mar 15, 2019","10:30p","","Chicago Bulls","W","",128,121,40,30,"W 1",7,0.914285714285714,36,3
 2019,"LAC",71,"Sun, Mar 17, 2019","9:00p","","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,36,2
 2019,"LAC",72,"Tue, Mar 19, 2019","10:30p","","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,36,2
 2019,"LAC",73,"Fri, Mar 22, 2019","7:30p","@","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,37,3
@@ -14656,14 +14738,14 @@
 2019,"PHI",59,"Thu, Feb 21, 2019","7:00p","","Miami Heat","W","",106,102,38,21,"W 2",4,3.72881355932203,28,8
 2019,"PHI",60,"Sat, Feb 23, 2019","1:00p","","Portland Trail Blazers","L","",115,130,38,22,"L 1",-15,3.41666666666667,28,2
 2019,"PHI",61,"Mon, Feb 25, 2019","8:00p","@","New Orleans Pelicans","W","",111,110,39,22,"W 1",1,3.37704918032787,29,2
-2019,"PHI",62,"Thu, Feb 28, 2019","8:00p","@","Oklahoma City Thunder","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"PHI",63,"Sat, Mar 2, 2019","8:30p","","Golden State Warriors","","",NA,NA,NA,NA,"",NA,NA,30,2
-2019,"PHI",64,"Tue, Mar 5, 2019","7:00p","","Orlando Magic","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"PHI",65,"Wed, Mar 6, 2019","8:00p","@","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,31,1
-2019,"PHI",66,"Fri, Mar 8, 2019","8:00p","@","Houston Rockets","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"PHI",67,"Sun, Mar 10, 2019","3:30p","","Indiana Pacers","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"PHI",68,"Tue, Mar 12, 2019","7:00p","","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,32,2
-2019,"PHI",69,"Fri, Mar 15, 2019","7:00p","","Sacramento Kings","","",NA,NA,NA,NA,"",NA,NA,32,3
+2019,"PHI",62,"Thu, Feb 28, 2019","8:00p","@","Oklahoma City Thunder","W","",108,104,40,22,"W 2",4,3.38709677419355,30,3
+2019,"PHI",63,"Sat, Mar 2, 2019","8:30p","","Golden State Warriors","L","",117,120,40,23,"L 1",-3,3.28571428571429,30,2
+2019,"PHI",64,"Tue, Mar 5, 2019","7:00p","","Orlando Magic","W","",114,106,41,23,"W 1",8,3.359375,30,3
+2019,"PHI",65,"Wed, Mar 6, 2019","8:00p","@","Chicago Bulls","L","",107,108,41,24,"L 1",-1,3.29230769230769,31,1
+2019,"PHI",66,"Fri, Mar 8, 2019","8:00p","@","Houston Rockets","L","",91,107,41,25,"L 2",-16,3,32,2
+2019,"PHI",67,"Sun, Mar 10, 2019","3:30p","","Indiana Pacers","W","",106,89,42,25,"W 1",17,3.2089552238806,32,2
+2019,"PHI",68,"Tue, Mar 12, 2019","7:00p","","Cleveland Cavaliers","W","",106,99,43,25,"W 2",7,3.26470588235294,32,2
+2019,"PHI",69,"Fri, Mar 15, 2019","7:00p","","Sacramento Kings","W","",123,114,44,25,"W 3",9,3.34782608695652,32,3
 2019,"PHI",70,"Sun, Mar 17, 2019","3:30p","@","Milwaukee Bucks","","",NA,NA,NA,NA,"",NA,NA,33,2
 2019,"PHI",71,"Tue, Mar 19, 2019","7:00p","@","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,34,2
 2019,"PHI",72,"Wed, Mar 20, 2019","7:00p","","Boston Celtics","","",NA,NA,NA,NA,"",NA,NA,34,1
@@ -14737,14 +14819,14 @@
 2019,"DET",58,"Sat, Feb 23, 2019","7:30p","@","Miami Heat","W","",119,96,28,30,"W 2",23,-1.01724137931034,28,1
 2019,"DET",59,"Mon, Feb 25, 2019","7:00p","","Indiana Pacers","W","",113,109,29,30,"W 3",4,-0.932203389830508,28,2
 2019,"DET",60,"Wed, Feb 27, 2019","8:30p","@","San Antonio Spurs","L","",93,105,29,31,"L 1",-12,-1.11666666666667,29,2
-2019,"DET",61,"Sat, Mar 2, 2019","5:00p","@","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"DET",62,"Sun, Mar 3, 2019","6:00p","","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,30,1
-2019,"DET",63,"Wed, Mar 6, 2019","7:00p","","Minnesota Timberwolves","","",NA,NA,NA,NA,"",NA,NA,30,3
-2019,"DET",64,"Fri, Mar 8, 2019","8:00p","@","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"DET",65,"Sun, Mar 10, 2019","12:00p","","Chicago Bulls","","",NA,NA,NA,NA,"",NA,NA,31,2
-2019,"DET",66,"Mon, Mar 11, 2019","7:30p","@","Brooklyn Nets","","",NA,NA,NA,NA,"",NA,NA,32,1
-2019,"DET",67,"Wed, Mar 13, 2019","7:30p","@","Miami Heat","","",NA,NA,NA,NA,"",NA,NA,33,2
-2019,"DET",68,"Fri, Mar 15, 2019","7:00p","","Los Angeles Lakers","","",NA,NA,NA,NA,"",NA,NA,33,2
+2019,"DET",61,"Sat, Mar 2, 2019","5:00p","@","Cleveland Cavaliers","W","",129,93,30,31,"W 1",36,-0.508196721311475,30,3
+2019,"DET",62,"Sun, Mar 3, 2019","6:00p","","Toronto Raptors","W","OT",112,107,31,31,"W 2",5,-0.419354838709677,30,1
+2019,"DET",63,"Wed, Mar 6, 2019","7:00p","","Minnesota Timberwolves","W","",131,114,32,31,"W 3",17,-0.142857142857143,30,3
+2019,"DET",64,"Fri, Mar 8, 2019","8:00p","@","Chicago Bulls","W","",112,104,33,31,"W 4",8,-0.015625,31,2
+2019,"DET",65,"Sun, Mar 10, 2019","12:00p","","Chicago Bulls","W","",131,108,34,31,"W 5",23,0.338461538461538,31,2
+2019,"DET",66,"Mon, Mar 11, 2019","7:30p","@","Brooklyn Nets","L","",75,103,34,32,"L 1",-28,-0.0909090909090909,32,1
+2019,"DET",67,"Wed, Mar 13, 2019","7:30p","@","Miami Heat","L","",74,108,34,33,"L 2",-34,-0.597014925373134,33,2
+2019,"DET",68,"Fri, Mar 15, 2019","7:00p","","Los Angeles Lakers","W","",111,97,35,33,"W 1",14,-0.382352941176471,33,2
 2019,"DET",69,"Sun, Mar 17, 2019","4:00p","","Toronto Raptors","","",NA,NA,NA,NA,"",NA,NA,33,2
 2019,"DET",70,"Mon, Mar 18, 2019","7:00p","@","Cleveland Cavaliers","","",NA,NA,NA,NA,"",NA,NA,34,1
 2019,"DET",71,"Thu, Mar 21, 2019","10:00p","@","Phoenix Suns","","",NA,NA,NA,NA,"",NA,NA,35,3
@@ -14759,85 +14841,3 @@
 2019,"DET",80,"Sun, Apr 7, 2019","4:00p","","Charlotte Hornets","","",NA,NA,NA,NA,"",NA,NA,40,2
 2019,"DET",81,"Tue, Apr 9, 2019","7:00p","","Memphis Grizzlies","","",NA,NA,NA,NA,"",NA,NA,40,2
 2019,"DET",82,"Wed, Apr 10, 2019","8:00p","@","New York Knicks","","",NA,NA,NA,NA,"",NA,NA,41,1
-2019,"NOP",1,"Wed, Oct 17, 2018","8:00p","@","Houston Rockets","W",NA,131,112,1,0,"W 1",19,19,1,NA
-2019,"NOP",2,"Fri, Oct 19, 2018","8:00p","","Sacramento Kings","W",NA,149,129,2,0,"W 2",20,19.5,1,2
-2019,"NOP",3,"Tue, Oct 23, 2018","8:00p","","Los Angeles Clippers","W",NA,116,109,3,0,"W 3",7,15.3333333333333,1,4
-2019,"NOP",4,"Fri, Oct 26, 2018","8:00p","","Brooklyn Nets","W",NA,117,115,4,0,"W 4",2,12,1,3
-2019,"NOP",5,"Sat, Oct 27, 2018","7:00p","","Utah Jazz","L",NA,111,132,4,1,"L 1",-21,5.4,1,1
-2019,"NOP",6,"Mon, Oct 29, 2018","9:00p","@","Denver Nuggets","L",NA,111,116,4,2,"L 2",-5,3.66666666666667,2,2
-2019,"NOP",7,"Wed, Oct 31, 2018","10:30p","@","Golden State Warriors","L",NA,121,131,4,3,"L 3",-10,1.71428571428571,3,2
-2019,"NOP",8,"Thu, Nov 1, 2018","10:30p","@","Portland Trail Blazers","L",NA,119,132,4,4,"L 4",-13,-0.125,4,1
-2019,"NOP",9,"Sat, Nov 3, 2018","8:30p","@","San Antonio Spurs","L",NA,95,109,4,5,"L 5",-14,-1.66666666666667,5,2
-2019,"NOP",10,"Mon, Nov 5, 2018","8:00p","@","Oklahoma City Thunder","L",NA,116,122,4,6,"L 6",-6,-2.1,6,2
-2019,"NOP",11,"Wed, Nov 7, 2018","8:00p","","Chicago Bulls","W",NA,107,98,5,6,"W 1",9,-1.09090909090909,6,2
-2019,"NOP",12,"Sat, Nov 10, 2018","7:00p","","Phoenix Suns","W",NA,119,99,6,6,"W 2",20,0.666666666666667,6,3
-2019,"NOP",13,"Mon, Nov 12, 2018","7:30p","@","Toronto Raptors","W",NA,126,110,7,6,"W 3",16,1.84615384615385,7,2
-2019,"NOP",14,"Wed, Nov 14, 2018","8:00p","@","Minnesota Timberwolves","L",NA,100,107,7,7,"L 1",-7,1.21428571428571,8,2
-2019,"NOP",15,"Fri, Nov 16, 2018","8:00p","","New York Knicks","W",NA,129,124,8,7,"W 1",5,1.46666666666667,8,2
-2019,"NOP",16,"Sat, Nov 17, 2018","7:00p","","Denver Nuggets","W",NA,125,115,9,7,"W 2",10,2,8,1
-2019,"NOP",17,"Mon, Nov 19, 2018","8:00p","","San Antonio Spurs","W",NA,140,126,10,7,"W 3",14,2.70588235294118,8,2
-2019,"NOP",18,"Wed, Nov 21, 2018","7:00p","@","Philadelphia 76ers","L",NA,120,121,10,8,"L 1",-1,2.5,9,2
-2019,"NOP",19,"Fri, Nov 23, 2018","7:30p","@","New York Knicks","L",NA,109,114,10,9,"L 2",-5,2.10526315789474,10,2
-2019,"NOP",20,"Sat, Nov 24, 2018","8:00p","@","Washington Wizards","L",NA,114,124,10,10,"L 3",-10,1.5,11,1
-2019,"NOP",21,"Mon, Nov 26, 2018","8:00p","","Boston Celtics","L",NA,107,124,10,11,"L 4",-17,0.619047619047619,11,2
-2019,"NOP",22,"Wed, Nov 28, 2018","8:00p","","Washington Wizards","W",NA,125,104,11,11,"W 1",21,1.54545454545455,11,2
-2019,"NOP",23,"Fri, Nov 30, 2018","8:00p","@","Miami Heat","L",NA,101,106,11,12,"L 1",-5,1.26086956521739,12,2
-2019,"NOP",24,"Sun, Dec 2, 2018","5:00p","@","Charlotte Hornets","W",NA,119,109,12,12,"W 1",10,1.625,13,2
-2019,"NOP",25,"Mon, Dec 3, 2018","8:00p","","Los Angeles Clippers","L",NA,126,129,12,13,"L 1",-3,1.44,13,1
-2019,"NOP",26,"Wed, Dec 5, 2018","8:00p","","Dallas Mavericks","W",NA,132,106,13,13,"W 1",26,2.38461538461538,13,2
-2019,"NOP",27,"Fri, Dec 7, 2018","8:00p","","Memphis Grizzlies","L",NA,103,107,13,14,"L 1",-4,2.14814814814815,13,2
-2019,"NOP",28,"Sun, Dec 9, 2018","3:30p","@","Detroit Pistons","W",NA,116,108,14,14,"W 1",8,2.35714285714286,14,2
-2019,"NOP",29,"Mon, Dec 10, 2018","7:30p","@","Boston Celtics","L",NA,100,113,14,15,"L 1",-13,1.82758620689655,15,1
-2019,"NOP",30,"Wed, Dec 12, 2018","8:00p","","Oklahoma City Thunder","W",NA,118,114,15,15,"W 1",4,1.9,15,2
-2019,"NOP",31,"Sun, Dec 16, 2018","7:00p","","Miami Heat","L",NA,96,102,15,16,"L 1",-6,1.64516129032258,15,4
-2019,"NOP",32,"Wed, Dec 19, 2018","8:00p","@","Milwaukee Bucks","L",NA,115,123,15,17,"L 2",-8,1.34375,16,3
-2019,"NOP",33,"Fri, Dec 21, 2018","10:30p","@","Los Angeles Lakers","L",NA,104,112,15,18,"L 3",-8,1.06060606060606,17,2
-2019,"NOP",34,"Sun, Dec 23, 2018","6:00p","@","Sacramento Kings","L",NA,117,122,15,19,"L 4",-5,0.882352941176471,18,2
-2019,"NOP",35,"Wed, Dec 26, 2018","8:30p","@","Dallas Mavericks","L",NA,119,122,15,20,"L 5",-3,0.771428571428571,19,3
-2019,"NOP",36,"Fri, Dec 28, 2018","8:00p","","Dallas Mavericks","W",NA,114,112,16,20,"W 1",2,0.805555555555556,19,2
-2019,"NOP",37,"Sat, Dec 29, 2018","7:00p","","Houston Rockets","L",NA,104,108,16,21,"L 1",-4,0.675675675675676,19,1
-2019,"NOP",38,"Mon, Dec 31, 2018","8:00p","","Minnesota Timberwolves","W",NA,123,114,17,21,"W 1",9,0.894736842105263,19,2
-2019,"NOP",39,"Wed, Jan 2, 2019","7:30p","@","Brooklyn Nets","L",NA,121,126,17,22,"L 1",-5,0.743589743589744,20,2
-2019,"NOP",40,"Sat, Jan 5, 2019","8:00p","@","Cleveland Cavaliers","W",NA,133,98,18,22,"W 1",35,1.6,21,3
-2019,"NOP",41,"Mon, Jan 7, 2019","8:00p","","Memphis Grizzlies","W",NA,114,95,19,22,"W 2",19,2.02439024390244,21,2
-2019,"NOP",42,"Wed, Jan 9, 2019","8:00p","","Cleveland Cavaliers","W",NA,140,124,20,22,"W 3",16,2.35714285714286,21,2
-2019,"NOP",43,"Sat, Jan 12, 2019","8:00p","@","Minnesota Timberwolves","L",NA,106,110,20,23,"L 1",-4,2.2093023255814,22,3
-2019,"NOP",44,"Mon, Jan 14, 2019","10:30p","@","Los Angeles Clippers","W",NA,121,117,21,23,"W 1",4,2.25,23,2
-2019,"NOP",45,"Wed, Jan 16, 2019","10:30p","@","Golden State Warriors","L",NA,140,147,21,24,"L 1",-7,2.04444444444444,24,2
-2019,"NOP",46,"Fri, Jan 18, 2019","10:30p","@","Portland Trail Blazers","L",NA,112,128,21,25,"L 2",-16,1.65217391304348,25,2
-2019,"NOP",47,"Mon, Jan 21, 2019","5:30p","@","Memphis Grizzlies","W",NA,105,85,22,25,"W 1",20,2.04255319148936,26,3
-2019,"NOP",48,"Wed, Jan 23, 2019","8:00p","","Detroit Pistons","L",NA,94,98,22,26,"L 1",-4,1.91666666666667,26,2
-2019,"NOP",49,"Thu, Jan 24, 2019","8:00p","@","Oklahoma City Thunder","L",NA,116,122,22,27,"L 2",-6,1.75510204081633,27,1
-2019,"NOP",50,"Sat, Jan 26, 2019","6:00p","","San Antonio Spurs","L",NA,114,126,22,28,"L 3",-12,1.48,27,2
-2019,"NOP",51,"Tue, Jan 29, 2019","8:00p","@","Houston Rockets","W",NA,121,116,23,28,"W 1",5,1.54901960784314,28,3
-2019,"NOP",52,"Wed, Jan 30, 2019","8:00p","","Denver Nuggets","L",NA,99,105,23,29,"L 1",-6,1.40384615384615,28,1
-2019,"NOP",53,"Sat, Feb 2, 2019","8:30p","@","San Antonio Spurs","L",NA,108,113,23,30,"L 2",-5,1.28301886792453,29,3
-2019,"NOP",54,"Mon, Feb 4, 2019","8:00p","","Indiana Pacers","L",NA,107,109,23,31,"L 3",-2,1.22222222222222,29,2
-2019,"NOP",55,"Wed, Feb 6, 2019","8:00p","@","Chicago Bulls","W",NA,125,120,24,31,"W 1",5,1.29090909090909,30,2
-2019,"NOP",56,"Fri, Feb 8, 2019","9:30p","","Minnesota Timberwolves","W",NA,122,117,25,31,"W 2",5,1.35714285714286,30,2
-2019,"NOP",57,"Sat, Feb 9, 2019","8:00p","@","Memphis Grizzlies","L",NA,90,99,25,32,"L 1",-9,1.17543859649123,31,1
-2019,"NOP",58,"Tue, Feb 12, 2019","8:00p","","Orlando Magic","L",NA,88,118,25,33,"L 2",-30,0.637931034482759,31,3
-2019,"NOP",59,"Thu, Feb 14, 2019","8:00p","","Oklahoma City Thunder","W",NA,131,122,26,33,"W 1",9,0.779661016949153,31,2
-2019,"NOP",60,"Fri, Feb 22, 2019","7:00p","@","Indiana Pacers","L",NA,111,126,26,34,"L 1",-15,0.516666666666667,32,8
-2019,"NOP",61,"Sat, Feb 23, 2019","7:00p","","Los Angeles Lakers","W",NA,128,115,27,34,"W 1",13,0.721311475409836,32,1
-2019,"NOP",62,"Mon, Feb 25, 2019","8:00p","","Philadelphia 76ers","L",NA,110,111,27,35,"L 1",-1,0.693548387096774,32,2
-2019,"NOP",63,"Wed, Feb 27, 2019","10:30p","@","Los Angeles Lakers","L",NA,119,125,27,36,"L 2",-6,0.587301587301587,33,2
-2019,"NOP",64,"Fri, Mar 1, 2019","9:00p","@","Phoenix Suns","",NA,NA,NA,NA,NA,"",NA,NA,34,2
-2019,"NOP",65,"Sat, Mar 2, 2019","9:00p","@","Denver Nuggets","",NA,NA,NA,NA,NA,"",NA,NA,35,1
-2019,"NOP",66,"Mon, Mar 4, 2019","9:00p","@","Utah Jazz","",NA,NA,NA,NA,NA,"",NA,NA,36,2
-2019,"NOP",67,"Wed, Mar 6, 2019","8:00p","","Utah Jazz","",NA,NA,NA,NA,NA,"",NA,NA,36,2
-2019,"NOP",68,"Fri, Mar 8, 2019","8:00p","","Toronto Raptors","",NA,NA,NA,NA,NA,"",NA,NA,36,2
-2019,"NOP",69,"Sun, Mar 10, 2019","6:00p","@","Atlanta Hawks","",NA,NA,NA,NA,NA,"",NA,NA,37,2
-2019,"NOP",70,"Tue, Mar 12, 2019","8:00p","","Milwaukee Bucks","",NA,NA,NA,NA,NA,"",NA,NA,37,2
-2019,"NOP",71,"Fri, Mar 15, 2019","8:00p","","Portland Trail Blazers","",NA,NA,NA,NA,NA,"",NA,NA,37,3
-2019,"NOP",72,"Sat, Mar 16, 2019","7:00p","","Phoenix Suns","",NA,NA,NA,NA,NA,"",NA,NA,37,1
-2019,"NOP",73,"Mon, Mar 18, 2019","8:30p","@","Dallas Mavericks","",NA,NA,NA,NA,NA,"",NA,NA,38,2
-2019,"NOP",74,"Wed, Mar 20, 2019","7:00p","@","Orlando Magic","",NA,NA,NA,NA,NA,"",NA,NA,39,2
-2019,"NOP",75,"Sun, Mar 24, 2019","7:00p","","Houston Rockets","",NA,NA,NA,NA,NA,"",NA,NA,39,4
-2019,"NOP",76,"Tue, Mar 26, 2019","8:00p","","Atlanta Hawks","",NA,NA,NA,NA,NA,"",NA,NA,39,2
-2019,"NOP",77,"Thu, Mar 28, 2019","8:00p","","Sacramento Kings","",NA,NA,NA,NA,NA,"",NA,NA,39,2
-2019,"NOP",78,"Sun, Mar 31, 2019","6:00p","","Los Angeles Lakers","",NA,NA,NA,NA,NA,"",NA,NA,39,3
-2019,"NOP",79,"Wed, Apr 3, 2019","8:00p","","Charlotte Hornets","",NA,NA,NA,NA,NA,"",NA,NA,39,3
-2019,"NOP",80,"Fri, Apr 5, 2019","10:00p","@","Phoenix Suns","",NA,NA,NA,NA,NA,"",NA,NA,40,2
-2019,"NOP",81,"Sun, Apr 7, 2019","9:00p","@","Sacramento Kings","",NA,NA,NA,NA,NA,"",NA,NA,41,2
-2019,"NOP",82,"Tue, Apr 9, 2019","8:00p","","Golden State Warriors","",NA,NA,NA,NA,NA,"",NA,NA,41,2
