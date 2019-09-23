@@ -187,5 +187,5 @@ start_groups_nba_14_to_present <- nba_14_to_present %>%
             mean_differential = round(mean(diff, na.rm = TRUE), 2))
 
 
-saveRDS(nba_14_to_present_merged, "nba_14_to_present_merged.rds")
+saveRDS(nba_14_to_present_merged, "nba-stats-shiny-dashboard/data/nba_14_to_present_merged.rds")
 
